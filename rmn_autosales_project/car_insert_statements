@@ -1,0 +1,202 @@
+USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'137FA90361E621143', N'Nissan', N'Pathfinder', N'2012', N'Purple')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'19UUA66208A123508', N'GMC', N'Suburban 2500', N'1999', N'Violet')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'19XFB2F53DE713491', N'Volkswagen', N'Rabbit', N'2009', N'Red')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'19XFB4F33EE148090', N'Volkswagen', N'rio', N'2000', N'Violet')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1B3CB9HA7AD808558', N'Audi', N'5000CS Quattro', N'2013', N'Teal')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1C3BCBEB5DN539572', N'Toyota', N'Solara', N'1999', N'Puce')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1C3CDZAB1DN737954', N'Pontiac', N'Grand Prix', N'2013', N'Orange')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1C3CDZCB3EN952363', N'Volkswagen', N'New Beetle', N'2010', N'Pink')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1C4RDJDG4FC778639', N'Jeep', N'Patriot', N'2008', N'Fuscia')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1D7RE3GK4AS717644', N'Dodge', N'Viper', N'2012', N'Indigo')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1D7RV1CT9BS470724', N'Chevrolet', N'Monte Carlo', N'2003', N'Blue')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1FMCU4K31AK176036', N'Mazda', N'MX-6', N'2012', N'Mauv')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1FTSW3B53AE432374', N'BMW', N'745', N'2002', N'Khaki')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1G4CU541214405168', N'Pontiac', N'GTO', N'2013', N'Puce')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1G4GF5G34CF612855', N'Volkswagen', N'Cabriolet', N'2012', N'Yellow')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1G6AM5S33E0376683', N'Kia', N'Amanti', N'2004', N'Teal')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1G6AX5S33F0655690', N'BMW', N'5 Series', N'2009', N'Fuscia')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1G6DG577180124564', N'Chevrolet', N'Equinox', N'2006', N'Puce')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1G6DV5EP9A0630058', N'Hyundai', N'XG300', N'2001', N'Teal')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1G6EC12902B203804', N'Suzuki', N'Grand Vitara', N'1999', N'Fuscia')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1GD22ZCG1CZ548682', N'Pontiac', N'Firebird Formula', N'2012', N'Mauv')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1GTN1TEH4FZ496122', N'Hyundai', N'Tucson', N'2007', N'Aquamarine')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1GTN1TEX1CZ201738', N'Ford', N'Econoline E250', N'2012', N'Yellow')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1GYEE23A290737246', N'Nissan', N'Quest', N'2004', N'Violet')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1GYS4AEF0DR605616', N'Saturn', N'S-Series', N'2012', N'Green')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1N4AA5AP7EC266511', N'Mercedes-Benz', N'E-Class', N'2013', N'Purple')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1N6AD0CU9FN655595', N'Ford', N'Mustang', N'2013', N'Teal')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'1N6AF0LY6FN297837', N'BMW', N'M6', N'2010', N'Yellow')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'2C3CDXCT2CH281433', N'Pontiac', N'Sunfire', N'2012', N'Crimson')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'2GKALMEK3F6718062', N'Ford', N'Ranger', N'2012', N'Red')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'3D73Y4HL2AG510591', N'Daewoo', N'Leganza', N'1999', N'Crimson')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'3D7TP2CT6BG070925', N'Chevrolet', N'Venture', N'2000', N'Goldenrod')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'3D7TT2CT3BG682866', N'Dodge', N'Challenger', N'2009', N'Fuscia')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'3LNHL2GC2CR885677', N'Ford', N'Aerostar', N'2013', N'Turquoise')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'3N1AB7APXFY380663', N'Pontiac', N'Grand Prix', N'2013', N'Goldenrod')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'3VW1K7AJ1CM534217', N'Audi', N'Q7', N'2012', N'Aquamarine')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'3VW8S7AT0FM898312', N'Dodge', N'Dakota', N'2005', N'Orange')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'4JGCB2FE7AA856215', N'Mercury', N'Mystique', N'2012', N'Pink')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'4T1BD1EB8EU416273', N'Austin', N'Mini', N'2013', N'Aquamarine')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'4T1BK1EB5FU298187', N'GMC', N'Jimmy', N'2001', N'Teal')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'4T3BA3BB5CU127221', N'Honda', N'Ridgeline', N'2010', N'Khaki')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'4USBT33565L572778', N'Mercury', N'Mountaineer', N'2012', N'Mauv')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'5FNRL5H23CB134136', N'Mazda', N'Navajo', N'2012', N'Crimson')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'5FNYF3H21FB542517', N'Lincoln', N'Mark LT', N'2007', N'Crimson')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'5J6TF1H31DL589560', N'Acura', N'RL', N'2012', N'Violet')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'5LMJJ3H54BE726672', N'Toyota', N'Corolla', N'2009', N'Maroon')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'5NPDH4AE6DH661598', N'Toyota', N'RAV4', N'2012', N'Indigo')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'5TDBCRFH7FS688537', N'GMC', N'Suburban 1500', N'2012', N'Pink')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'5UXWZ7C52F0058554', N'Toyota', N'4Runner', N'2012', N'Maroon')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'5UXZV4C56CL003767', N'Buick', N'Reatta', N'2013', N'Aquamarine')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'5UXZV8C50CL020605', N'Ford', N'Explorer', N'2012', N'Green')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JH4DC23911S696385', N'Suzuki', N'Grand Vitara', N'2003', N'Aquamarine')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JHMZE2H37DS233188', N'Jaguar', N'S-Type', N'2006', N'Turquoise')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JM1CR2W35A0636558', N'Audi', N'S4', N'2013', N'Blue')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JM1NC2LF8E0242602', N'Subaru', N'SVX', N'2012', N'Pink')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JN1CV6AP6CM754775', N'Scion', N'xA', N'2006', N'Fuscia')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JN1CV6EK8DM787129', N'Hyundai', N'Sonata', N'2013', N'Aquamarine')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JN8AS5MT1AW643847', N'BMW', N'X6', N'2013', N'Red')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JN8AZ2KR2AT258736', N'Oldsmobile', N'LSS', N'1999', N'Purple')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JTDKDTB38F1783383', N'Jeep', N'Liberty', N'2010', N'Goldenrod')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JTDKDTB38F1898503', N'Kia', N'Spectra', N'2000', N'Turquoise')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JTDKN3DP1D3209237', N'Jeep', N'Liberty', N'2011', N'Mauv')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JTDKN3DU3F0146507', N'Austin', N'Mini', N'2013', N'Red')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JTDZN3EU1EJ699050', N'Pontiac', N'Parisienne', N'2013', N'Aquamarine')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JTEBU5JR7D5928996', N'Land Rover', N'Range Rover', N'2012', N'Puce')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'JTJHY7AX2A4535130', N'Isuzu', N'i-350', N'2006', N'Indigo')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'KNAFU5A26B5883424', N'Toyota', N'Celica', N'2001', N'Maroon')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'KNAGM4AD4C5885335', N'Mitsubishi', N'Mirage', N'1999', N'Maroon')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'NM0KS7DN8AT651262', N'Acura', N'TL', N'2012', N'Khaki')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'SCBBB7ZH7EC966889', N'Mercedes-Benz', N'CL-Class', N'1999', N'Fuscia')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'SCBCP7ZA8AC317959', N'Infiniti', N'QX', N'2012', N'Mauv')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'SCFAB42391K274625', N'Mazda', N'MX-6', N'2012', N'Fuscia')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'SCFEBBCF7BG787195', N'Mitsubishi', N'Truck', N'2012', N'Purple')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'SCFFDABE8CG196389', N'Infiniti', N'Q', N'1999', N'Red')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'TRUWX28N121351942', N'Acura', N'SLX', N'2012', N'Yellow')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WA1CMAFE2CD641460', N'GMC', N'3500', N'2012', N'Crimson')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WAUAKAFB4AN955222', N'Isuzu', N'Trooper', N'2012', N'Blue')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WAUAKAFBXBN464204', N'Chevrolet', N'S10', N'2012', N'Yellow')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WAUHF98P29A084561', N'Infiniti', N'G', N'2008', N'Maroon')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WAUKD98P87A960543', N'Honda', N'Element', N'2007', N'Aquamarine')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WAUKH98E98A745404', N'Nissan', N'Versa', N'2010', N'Violet')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WAUSFAFL0BA722464', N'Volkswagen', N'Golf', N'2012', N'Green')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WAUUL78E45A897775', N'Buick', N'Park Avenue', N'2012', N'Orange')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WAUXF98K79A237824', N'Volvo', N'S40', N'2005', N'Goldenrod')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WBA3B5C57DF003814', N'Plymouth', N'Neon', N'2000', N'Maroon')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WBABD33465J365911', N'BMW', N'X3', N'2012', N'Teal')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WBAEP33413P471469', N'Kia', N'Amanti', N'2005', N'Yellow')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WBAEV534X3K423578', N'GMC', N'Acadia', N'2007', N'Indigo')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WBAKG1C51DJ061484', N'Isuzu', N'Amigo', N'2012', N'Green')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WBANE53577C280582', N'GMC', N'1500 Club Coupe', N'2012', N'Pink')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WBANU5C50AB362167', N'Volkswagen', N'Corrado', N'2012', N'Mauv')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WBAPM7G5XAN643387', N'Dodge', N'Grand Caravan', N'1999', N'Orange')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WBAUN1C5XAV442768', N'Hummer', N'H1', N'2003', N'Purple')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WBAVM5C54EV540778', N'Eagle', N'Vision', N'2012', N'Goldenrod')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WBAYE4C53ED802221', N'Ford', N'F450', N'2012', N'Indigo')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WBXPA73444W257560', N'Ford', N'F250', N'2008', N'Crimson')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WVGAV7AX0CW905930', N'Cadillac', N'Eldorado', N'1999', N'Pink')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WVGAV7AX3AW559465', N'Chevrolet', N'1500', N'2012', N'Purple')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WVGAV7AX4CW193275', N'BMW', N'X6', N'2010', N'Purple')
+GO
+INSERT [dbo].[Car] ([VIN], [make], [model], [year], [color]) VALUES (N'WVGFF9BPXBD833884', N'GMC', N'Yukon', N'2010', N'Khaki')
+GO

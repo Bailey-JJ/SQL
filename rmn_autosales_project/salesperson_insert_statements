@@ -1,0 +1,62 @@
+USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'1       ', N'Filia', N'Hessle', CAST(0.08 AS Decimal(10, 2)), N'5055948967')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'10      ', N'Alphard', N'Leavry', CAST(0.05 AS Decimal(10, 2)), N'2994339773')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'11      ', N'Meryl', N'Saiens', CAST(0.03 AS Decimal(10, 2)), N'4574458910')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'12      ', N'Rollin', N'Diable', CAST(0.02 AS Decimal(10, 2)), N'9185196187')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'13      ', N'Gaspar', N'Hubbucke', CAST(0.09 AS Decimal(10, 2)), N'8608022847')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'14      ', N'Anjela', N'Pashba', CAST(0.10 AS Decimal(10, 2)), N'9842270511')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'15      ', N'Gaby', N'Zappel', CAST(0.05 AS Decimal(10, 2)), N'4342319854')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'16      ', N'Edgardo', N'Gainforth', CAST(0.04 AS Decimal(10, 2)), N'6699092516')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'17      ', N'Gabbey', N'Kinde', CAST(0.05 AS Decimal(10, 2)), N'6726032198')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'18      ', N'Emanuele', N'Palek', CAST(0.04 AS Decimal(10, 2)), N'6174923075')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'19      ', N'Krystal', N'Diego', CAST(0.02 AS Decimal(10, 2)), N'9124767388')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'2       ', N'Kelley', N'Bugden', CAST(0.03 AS Decimal(10, 2)), N'2993455855')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'20      ', N'Ferd', N'Keogh', CAST(0.10 AS Decimal(10, 2)), N'7495927048')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'21      ', N'Tyson', N'O''Grogane', CAST(0.01 AS Decimal(10, 2)), N'6437918220')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'22      ', N'Weston', N'Klimpt', CAST(0.07 AS Decimal(10, 2)), N'3949533850')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'23      ', N'Syd', N'Baldazzi', CAST(0.02 AS Decimal(10, 2)), N'8758202483')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'24      ', N'Cherin', N'Heasman', CAST(0.07 AS Decimal(10, 2)), N'4886364599')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'25      ', N'Fred', N'Crispin', CAST(0.09 AS Decimal(10, 2)), N'4208072420')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'26      ', N'Gracia', N'Panniers', CAST(0.10 AS Decimal(10, 2)), N'2747249858')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'27      ', N'Fey', N'Kiddy', CAST(0.01 AS Decimal(10, 2)), N'5283429455')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'28      ', N'Renato', N'Jakobssen', CAST(0.03 AS Decimal(10, 2)), N'2942474642')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'29      ', N'Averil', N'Dudding', CAST(0.08 AS Decimal(10, 2)), N'6617616358')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'3       ', N'Lise', N'Bellwood', CAST(0.07 AS Decimal(10, 2)), N'3941087400')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'30      ', N'Torr', N'Sicha', CAST(0.08 AS Decimal(10, 2)), N'4345088105')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'4       ', N'Nata', N'Haglington', CAST(0.04 AS Decimal(10, 2)), N'9614853021')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'5       ', N'Justinian', N'Cesco', CAST(0.04 AS Decimal(10, 2)), N'2641245637')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'6       ', N'Merry', N'Govier', CAST(0.08 AS Decimal(10, 2)), N'8299848371')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'7       ', N'Halli', N'Harden', CAST(0.09 AS Decimal(10, 2)), N'1827616904')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'8       ', N'Ellen', N'Ogilvy', CAST(0.05 AS Decimal(10, 2)), N'7882548447')
+GO
+INSERT [dbo].[SalesPerson] ([employee_id], [first_name], [last_name], [commission], [phone]) VALUES (N'9       ', N'Bethina', N'Arundel', CAST(0.09 AS Decimal(10, 2)), N'1818826891')
+GO

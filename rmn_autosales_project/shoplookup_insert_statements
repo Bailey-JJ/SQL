@@ -1,0 +1,36 @@
+USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
+GO
+SET IDENTITY_INSERT [dbo].[ShopLookup] ON 
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (17, N'Flipstorm')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (18, N'Gabtune')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (19, N'Topicware')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (20, N'Lazzy')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (21, N'Trunyx')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (22, N'Gabcube')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (23, N'Quire')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (24, N'Oyoba')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (25, N'Divape')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (26, N'Ozu')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (27, N'Bluejam')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (28, N'Yakijo')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (29, N'Demimbu')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (30, N'Mudo')
+GO
+INSERT [dbo].[ShopLookup] ([shop_id], [shop_name]) VALUES (31, N'Zoombeat')
+GO
+SET IDENTITY_INSERT [dbo].[ShopLookup] OFF
+GO
