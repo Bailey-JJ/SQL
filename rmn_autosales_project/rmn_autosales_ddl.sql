@@ -1,3 +1,8 @@
+--create a table of insert statements
+SELECT 'insert into Seller values (' +
+       QUOTENAME(seller_id, '''') + ',' + QUOTENAME(seller_name, '''') + QUOTENAME(Street, '''') + ',' + QUOTENAME(City, '''') + QUOTENAME(State, '''') + ',' + QUOTENAME(ZIP, '''') + QUOTENAME(Email, '''') + ',' + ');'
+FROM Seller;
+
 --Use to drop tables
 
 drop table if exists [Repairs];

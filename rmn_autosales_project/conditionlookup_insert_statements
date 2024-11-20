@@ -1,0 +1,10 @@
+USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
+GO
+INSERT [dbo].[ConditionLookup] ([condition_id], [condition]) VALUES (N'1', N'NormalWear')
+GO
+INSERT [dbo].[ConditionLookup] ([condition_id], [condition]) VALUES (N'2', N'MinorWear')
+GO
+INSERT [dbo].[ConditionLookup] ([condition_id], [condition]) VALUES (N'3', N'MajorWear')
+GO
+INSERT [dbo].[ConditionLookup] ([condition_id], [condition]) VALUES (N'4', N'LikeNew')
+GO

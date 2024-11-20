@@ -1,0 +1,102 @@
+USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Agivu   ', 1115, N'815759246', CAST(N'2023-03-28' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Avavee  ', 1108, N'230934868', CAST(N'2022-12-13' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Blogpad ', 1116, N'494599609', CAST(N'2023-01-19' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Blogspan', 1117, N'380358529', CAST(N'2023-08-31' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Bluezoom', 1116, N'566058861', CAST(N'2023-08-07' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Buzzdog ', 1107, N'314674919', CAST(N'2023-12-27' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Cogibox ', 1113, N'148719538', CAST(N'2024-04-25' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Dabshots', 1106, N'818226927', CAST(N'2023-07-30' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'DabZ    ', 1150, N'161816431', CAST(N'2023-04-14' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Demimbu ', 1112, N'658689772', CAST(N'2023-05-22' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Demivee ', 1119, N'383828160', CAST(N'2024-04-12' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Devbug  ', 1119, N'776794901', CAST(N'2023-09-25' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Devpoint', 1101, N'762679008', CAST(N'2023-06-10' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Eadel   ', 1104, N'945837273', CAST(N'2024-01-09' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Eazzy   ', 1135, N'820261307', CAST(N'2023-03-23' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Edgeblab', 1106, N'309838264', CAST(N'2022-12-15' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Edgetag ', 1127, N'711319910', CAST(N'2023-03-16' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Eire    ', 1108, N'572840781', CAST(N'2022-12-28' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Fadeo   ', 1143, N'641938307', CAST(N'2023-02-02' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Fanoodle', 1150, N'973226138', CAST(N'2022-11-29' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Feedspan', 1126, N'904229465', CAST(N'2023-02-06' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Fivespan', 1144, N'709469519', CAST(N'2022-12-18' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Flipopia', 1127, N'388108478', CAST(N'2024-07-01' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Gigaclub', 1141, N'569639437', CAST(N'2024-03-14' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Jaloo   ', 1150, N'927379973', CAST(N'2024-08-17' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Jamia   ', 1144, N'903929619', CAST(N'2024-09-11' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Jayo    ', 1149, N'415569830', CAST(N'2024-05-03' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Jazzy   ', 1103, N'146987811', CAST(N'2023-07-31' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'JumpXS  ', 1128, N'462872571', CAST(N'2024-04-10' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Kanoodle', 1139, N'441689478', CAST(N'2023-04-06' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Kazu    ', 1120, N'344966173', CAST(N'2023-04-23' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Kwinu   ', 1106, N'365555552', CAST(N'2024-01-28' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Leexo   ', 1121, N'434674713', CAST(N'2023-04-10' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'LiveZ   ', 1112, N'882529202', CAST(N'2023-05-05' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Meejo   ', 1120, N'151888237', CAST(N'2023-06-23' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Meemm   ', 1129, N'224411282', CAST(N'2024-02-29' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Midel   ', 1139, N'980604450', CAST(N'2022-11-18' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Mydo    ', 1116, N'653420846', CAST(N'2023-10-01' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Mymm    ', 1149, N'579049607', CAST(N'2024-04-02' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Mynte   ', 1148, N'437403496', CAST(N'2023-12-06' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Npath   ', 1145, N'571321122', CAST(N'2024-05-02' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Oodoo   ', 1125, N'763174416', CAST(N'2024-08-16' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Oyoba   ', 1139, N'597701978', CAST(N'2024-05-06' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Photobug', 1144, N'771427955', CAST(N'2024-08-16' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Pixonyx ', 1110, N'296754116', CAST(N'2024-06-18' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Quimba  ', 1125, N'940038356', CAST(N'2023-04-02' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Quinu   ', 1111, N'608490914', CAST(N'2023-12-12' AS Date), NULL, 0)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Realcube', 1145, N'139921479', CAST(N'2023-03-12' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Rhynyx  ', 1113, N'367088545', CAST(N'2023-06-20' AS Date), NULL, 1)
+GO
+INSERT [dbo].[PurchaseHeader] ([purchase_id], [seller_id], [tax_id], [purchase_date], [location], [auction]) VALUES (N'Riffpath', 1141, N'596584910', CAST(N'2023-11-17' AS Date), NULL, 1)
+GO
