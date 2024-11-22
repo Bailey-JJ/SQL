@@ -1,0 +1,244 @@
+USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'11629334', N'10565519', 2, NULL, 53674, CAST(11630.63 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'11747251', N'54570260', 3, NULL, 131064, CAST(16583.83 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'13029118', N'68252155', 4, NULL, 198284, CAST(13768.50 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'14962137', N'83031696', 2, NULL, 55698, CAST(14226.31 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'15078545', N'11723030', 1, NULL, 64166, CAST(11181.93 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'17146689', N'52712627', 3, NULL, 152681, CAST(21832.91 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'17994069', N'68994976', 3, NULL, 86098, CAST(17501.83 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'21061578', N'83699669', 3, NULL, 206801, CAST(12732.65 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'25514608', N'12240067', 1, NULL, 206069, CAST(16057.20 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'27927863', N'52537074', 2, NULL, 75073, CAST(15794.75 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'28284059', N'69518543', 1, NULL, 213620, CAST(13252.99 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'30419737', N'84821156', 3, NULL, 212868, CAST(11732.81 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'33243931', N'14406332', 4, NULL, 148547, CAST(11956.07 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'33243931', N'78579567', 2, NULL, 50360, CAST(16121.10 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'33243931', N'94256853', 4, NULL, 148563, CAST(15841.93 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'33900940', N'23579361', 3, NULL, 115851, CAST(18738.30 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'33900940', N'42914760', 3, NULL, 176715, CAST(23571.48 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'33900940', N'49955254', 4, NULL, 158328, CAST(21907.89 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'33900940', N'79140746', 1, NULL, 206313, CAST(10612.57 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'33900940', N'96842756', 1, NULL, 181962, CAST(15143.45 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'34371012', N'24770873', 4, NULL, 235378, CAST(20753.85 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'34371012', N'41901630', 4, NULL, 184202, CAST(19475.83 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'34371012', N'69901046', 4, NULL, 92288, CAST(16025.59 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'34371012', N'79218332', 3, NULL, 91560, CAST(11697.26 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'34371012', N'97687402', 2, NULL, 172833, CAST(16178.93 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'36964884', N'26202410', 3, NULL, 241578, CAST(24191.54 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'36964884', N'41773450', 1, NULL, 182925, CAST(10141.01 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'36964884', N'80024691', 3, NULL, 77916, CAST(19013.34 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'36964884', N'85401673', 4, NULL, 181510, CAST(11056.12 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'36964884', N'99303338', 1, NULL, 213690, CAST(18149.72 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'38983824', N'14818708', 3, NULL, 198157, CAST(21103.28 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'38983824', N'26340794', 3, NULL, 64340, CAST(20149.59 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'38983824', N'40712065', 1, NULL, 98322, CAST(24275.65 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'38983824', N'80718366', 2, NULL, 184748, CAST(16376.43 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'39426324', N'40156985', 3, NULL, 191381, CAST(23840.09 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'39426324', N'49790308', 3, NULL, 89737, CAST(23424.93 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'43984026', N'39298464', 4, NULL, 118421, CAST(22162.49 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'43984026', N'70957467', 4, NULL, 233100, CAST(23637.75 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'49804015', N'37686485', 3, NULL, 231192, CAST(11542.53 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'49804015', N'85704050', 2, NULL, 249318, CAST(9434.83 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'52428199', N'16187036', 4, NULL, 103911, CAST(15408.73 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'52428199', N'36532723', 3, NULL, 222805, CAST(14758.92 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'53023575', N'32108046', 4, NULL, 88268, CAST(8971.05 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'53023575', N'49258571', 4, NULL, 133861, CAST(9176.05 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'54683470', N'31811957', 4, NULL, 209293, CAST(22633.13 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'54683470', N'73404527', 3, NULL, 221557, CAST(9163.19 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'56763447', N'31669828', 3, NULL, 249194, CAST(8522.35 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'56763447', N'86834638', 3, NULL, 83284, CAST(13825.61 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'58304669', N'17503005', 3, NULL, 212342, CAST(22268.72 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'58304669', N'31256167', 4, NULL, 205420, CAST(23789.08 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'59108469', N'30570878', 4, NULL, 61424, CAST(20275.36 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'59108469', N'49196694', 3, NULL, 190970, CAST(15628.37 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'60809758', N'29222861', 4, NULL, 172033, CAST(21947.54 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'60809758', N'73528335', 4, NULL, 111127, CAST(10648.44 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'61185320', N'27568666', 3, NULL, 158420, CAST(22017.22 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'61185320', N'88342143', 2, NULL, 160428, CAST(21131.92 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'61350803', N'17813909', 4, NULL, 124766, CAST(18562.33 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'61350803', N'27435631', 1, NULL, 162850, CAST(18608.59 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'62341994', N'27399431', 3, NULL, 77998, CAST(17612.24 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'62341994', N'49007618', 2, NULL, 180491, CAST(18335.66 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'62786411', N'27196013', 3, NULL, 103972, CAST(16885.17 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'62786411', N'74490464', 1, NULL, 102852, CAST(9142.92 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'64679431', N'26673179', 1, NULL, 197695, CAST(19477.33 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'64679431', N'88802972', 2, NULL, 95944, CAST(8989.42 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'65946341', N'19046982', 4, NULL, 58522, CAST(8141.97 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'65946341', N'26430800', 2, NULL, 51032, CAST(10504.49 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'66256225', N'46126689', 1, NULL, 65317, CAST(20044.84 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'66256225', N'99945431', 2, NULL, 170345, CAST(16556.70 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'68641196', N'67484421', 1, NULL, 190262, CAST(13686.21 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'68641196', N'74492451', 4, NULL, 83846, CAST(24398.34 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'69283769', N'66079300', 3, NULL, 143088, CAST(14406.60 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'69283769', N'91264831', 3, NULL, 186928, CAST(16530.48 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'74949670', N'19132400', 2, NULL, 144003, CAST(17907.51 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'74949670', N'65515451', 2, NULL, 133138, CAST(17156.82 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'79267637', N'46074355', 2, NULL, 212592, CAST(9629.75 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'79267637', N'64816279', 4, NULL, 52734, CAST(13257.07 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'79306505', N'64152375', 1, NULL, 190996, CAST(8092.59 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'79306505', N'75137434', 3, NULL, 108124, CAST(18910.44 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'80859498', N'63710137', 4, NULL, 164146, CAST(12410.88 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'80859498', N'91351940', 3, NULL, 237803, CAST(11631.14 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'85679634', N'19726445', 2, NULL, 243991, CAST(18359.34 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'85679634', N'63595171', 2, NULL, 139943, CAST(15854.13 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'88141844', N'46039166', 2, NULL, 181289, CAST(16437.13 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'88141844', N'60975997', 4, NULL, 237349, CAST(20443.86 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'88444366', N'60915356', 3, NULL, 55431, CAST(16720.85 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'88444366', N'75508730', 3, NULL, 95303, CAST(21054.44 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'88665350', N'60310374', 3, NULL, 90977, CAST(24731.26 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'88665350', N'91910136', 3, NULL, 114309, CAST(10217.36 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'89486735', N'23408933', 2, NULL, 96262, CAST(8457.93 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'89486735', N'59547479', 2, NULL, 218555, CAST(11980.93 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'94364471', N'44964373', 2, NULL, 117001, CAST(11194.46 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'94364471', N'58474597', 3, NULL, 108171, CAST(19740.45 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'95376560', N'58349717', 2, NULL, 147394, CAST(23906.68 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'95376560', N'76902308', 2, NULL, 138446, CAST(11943.48 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'96057122', N'55585786', 3, NULL, 196153, CAST(13093.21 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'96057122', N'92046349', 3, NULL, 163922, CAST(10859.23 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'97091597', N'23458236', 2, NULL, 57738, CAST(10825.15 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'97091597', N'54966786', 2, NULL, 139172, CAST(17481.39 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'97316292', N'43709467', 2, NULL, 224417, CAST(16932.87 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PurchasedCars] ([purchase_id], [item_id], [condition_id], [VIN], [miles_at_purchase], [price_paid], [list_price]) VALUES (N'97316292', N'54904282', 4, NULL, 70238, CAST(13407.74 AS Decimal(10, 2)), CAST(1.00 AS Decimal(10, 2)))
+GO
+
+
+
+--takes existing rows and iterates through to add rows to a new table
+
+WITH SourceRows AS (
+    SELECT 
+        purchase_id AS NewPurchaseID, 
+        ROW_NUMBER() OVER (ORDER BY purchase_id) AS RowNum
+    FROM PurchaseHeader
+),
+TargetRows AS (
+    SELECT
+        purchase_id, 
+        ROW_NUMBER() OVER (ORDER BY purchase_id) AS RowNum
+    FROM PurchasedCars
+)
+UPDATE TargetRows
+SET purchase_id = SourceRows.NewPurchaseID
+FROM TargetRows
+JOIN SourceRows ON TargetRows.RowNum = SourceRows.RowNum;
+
+
+
+
+WITH SourceRows AS (
+    SELECT 
+        VIN AS NewPurchaseID, 
+        ROW_NUMBER() OVER (ORDER BY VIN) AS RowNum
+    FROM Car
+),
+TargetRows AS (
+    SELECT
+        VIN, 
+        ROW_NUMBER() OVER (ORDER BY VIN) AS RowNum
+    FROM PurchasedCars
+)
+UPDATE TargetRows
+SET VIN = SourceRows.NewPurchaseID
+FROM TargetRows
+JOIN SourceRows ON TargetRows.RowNum = SourceRows.RowNum;
+

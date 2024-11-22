@@ -30,7 +30,7 @@ create table [SalesPerson] (
   [first_name] varchar (50),
   [last_name] varchar (50),
   [commission] decimal (10, 2),
-  [phone] char (10),
+  [phone] char (12),
   PRIMARY KEY ([employee_id])
 );
 
@@ -45,7 +45,7 @@ create table [Customer] (
   [city] varchar (50),
   [state] char (2),
   [zip] char (5),
-  [phone] char (10),
+  [phone] char (12),
   PRIMARY KEY ([customer_id])
 );
 
@@ -58,12 +58,8 @@ create table [SalesHeader] (
   [down_payment] decimal (10, 2),
   [financed_amount] decimal (10, 2),
   PRIMARY KEY ([sale_id]),
-  CONSTRAINT [FK_SalesHeader.employee_id]
-    FOREIGN KEY ([employee_id])
-      REFERENCES [SalesPerson]([employee_id]),
-  CONSTRAINT [FK_SalesHeader.customer_id]
-    FOREIGN KEY ([customer_id])
-      REFERENCES [Customer]([customer_id])
+  FOREIGN KEY ([employee_id]) REFERENCES [SalesPerson]([employee_id]),
+  FOREIGN KEY ([customer_id]) REFERENCES [Customer]([customer_id])
 );
 
 create table [Car] (
@@ -91,15 +87,9 @@ create table [CarsSold] (
   [miles_at_sale] int,
   [sale_price] decimal (10, 2),
   PRIMARY KEY ([sale_id], [item_id]),
-  CONSTRAINT [FK_CarsSold.sale_id]
-    FOREIGN KEY ([sale_id])
-      REFERENCES [SalesHeader]([sale_id]),
-  CONSTRAINT [FK_CarsSold.VIN]
-    FOREIGN KEY ([VIN])
-      REFERENCES [Car]([VIN]),
-  CONSTRAINT [FK_CarsSold.condition_id]
-    FOREIGN KEY ([condition_id])
-      REFERENCES [ConditionLookup]([condition_id])
+  FOREIGN KEY ([sale_id]) REFERENCES [SalesHeader]([sale_id]),
+  FOREIGN KEY ([VIN]) REFERENCES [Car]([VIN]),
+  FOREIGN KEY ([condition_id]) REFERENCES [ConditionLookup]([condition_id])
 );
 
 create table [Payments] (
@@ -111,9 +101,7 @@ create table [Payments] (
   [amount_due] decimal (10, 2),
   [amount] decimal (10, 2),
   PRIMARY KEY ([payment_id]),
-  CONSTRAINT [FK_Payments_CarsSold]
-    FOREIGN KEY ([sale_id], [item_id])
-      REFERENCES [CarsSold]([sale_id], [item_id])
+  FOREIGN KEY ([sale_id], [item_id]) REFERENCES [CarsSold]([sale_id], [item_id])
 );
 
 
@@ -136,9 +124,7 @@ create table [PurchaseHeader] (
   [location] varchar(100),
   [auction] bit,
   PRIMARY KEY ([purchase_id]),
-  CONSTRAINT [FK_PurchaseHeader.seller_id]
-    FOREIGN KEY ([seller_id])
-      REFERENCES [Seller]([seller_id])
+  FOREIGN KEY ([seller_id]) REFERENCES [Seller]([seller_id])
 );
 
 create table [PaymentTransaction] (
@@ -146,9 +132,8 @@ create table [PaymentTransaction] (
   [payment_date] date,
   [amount_due] decimal (10, 2),
   [amount_paid] decimal (10, 2),
-  CONSTRAINT [FK_PaymentTransaction.payment_id]
-    FOREIGN KEY ([payment_id])
-      REFERENCES [Payments]([payment_id])
+  PRIMARY KEY ([payment_id], [payment_date]),
+  FOREIGN KEY ([payment_id]) REFERENCES [Payments]([payment_id])
 );
 
 create table [ShopLookup] (
@@ -166,15 +151,9 @@ create table [PurchasedCars] (
   [price_paid] decimal (10,2),
   [list_price] decimal  (10, 2),
   PRIMARY KEY ([purchase_id], [item_id]),
-  CONSTRAINT [FK_PurchasedCars.VIN]
-    FOREIGN KEY ([VIN])
-      REFERENCES [Car]([VIN]),
-  CONSTRAINT [FK_PurchasedCars.purchase_id]
-    FOREIGN KEY ([purchase_id])
-      REFERENCES [PurchaseHeader]([purchase_id]),
-  CONSTRAINT [FK_PurchasedCars.condition_id]
-    FOREIGN KEY ([condition_id])
-      REFERENCES [ConditionLookup]([condition_id])
+  FOREIGN KEY ([VIN]) REFERENCES [Car]([VIN]),
+  FOREIGN KEY ([purchase_id]) REFERENCES [PurchaseHeader]([purchase_id]),
+  FOREIGN KEY ([condition_id]) REFERENCES [ConditionLookup]([condition_id])
 );
 
 create table [Repairs] (
@@ -184,12 +163,8 @@ create table [Repairs] (
   [repair_description] varchar (100),
   [repair_cost] decimal(10, 2),
   PRIMARY KEY ([repair_date]),
-  CONSTRAINT [FK_Repairs.shop_id]
-    FOREIGN KEY ([shop_id])
-      REFERENCES [ShopLookup]([shop_id]),
-  CONSTRAINT [FK_Repairs.VIN]
-    FOREIGN KEY ([VIN])
-      REFERENCES [Car]([VIN])
+  FOREIGN KEY ([shop_id]) REFERENCES [ShopLookup]([shop_id]),
+  FOREIGN KEY ([VIN]) REFERENCES [Car]([VIN])
 );
 
 create table [Warranty] (
@@ -204,7 +179,7 @@ create table [Employment] (
   [employer_name] varchar(50),
   [title] varchar (50),
   [supervisor_name] varchar (50),
-  [phone] char (10),
+  [phone] char (12),
   [street] varchar (50),
   [city] varchar (50),
   [state] char (2),
@@ -212,8 +187,6 @@ create table [Employment] (
   [start_date] date,
   [end_date] date,
   PRIMARY KEY ([customer_id], [employer_name]),
-  CONSTRAINT [FK_Employment.customer_id]
-    FOREIGN KEY ([customer_id])
-      REFERENCES [Customer]([customer_id])
+  FOREIGN KEY ([customer_id]) REFERENCES [Customer]([customer_id])
 );
 

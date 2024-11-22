@@ -1,0 +1,16 @@
+WITH SourceRows AS (
+    SELECT 
+        purchase_id AS NewPurchaseID, 
+        ROW_NUMBER() OVER (ORDER BY purchase_id) AS RowNum
+    FROM purchaseheader_copy
+),
+TargetRows AS (
+    SELECT 
+        purchase_id, 
+        ROW_NUMBER() OVER (ORDER BY purchase_id) AS RowNum
+    FROM purchaseheader
+)
+UPDATE TargetRows
+SET purchase_id = SourceRows.NewPurchaseID
+FROM TargetRows
+JOIN SourceRows ON TargetRows.RowNum = SourceRows.RowNum;
