@@ -5,8 +5,6 @@
 --Seller Table:
 USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
 GO
-SET IDENTITY_INSERT [dbo].[Seller] ON 
-GO
 INSERT [dbo].[Seller] ([seller_id], [seller_name], [Street], [City], [State], [ZIP], [Email]) VALUES (1101, N'Browsebug', N'Summit', N'Huntington', N'WV', N'47919', N'fmarin0@sitemeter.com')
 GO
 INSERT [dbo].[Seller] ([seller_id], [seller_name], [Street], [City], [State], [ZIP], [Email]) VALUES (1103, N'Dazzlesphere', N'David', N'Charlotte', N'NC', N'20774', N'siacovacci2@cbsnews.com')
@@ -66,6 +64,4 @@ GO
 INSERT [dbo].[Seller] ([seller_id], [seller_name], [Street], [City], [State], [ZIP], [Email]) VALUES (1149, N'Dynazzy', N'Monterey', N'Kansas City', N'MO', N'69343', N'rmckerley1c@eepurl.com')
 GO
 INSERT [dbo].[Seller] ([seller_id], [seller_name], [Street], [City], [State], [ZIP], [Email]) VALUES (1150, N'Lazzy', N'New Castle', N'Augusta', N'GA', N'35964', N'kcrebott1d@cargocollective.com')
-GO
-SET IDENTITY_INSERT [dbo].[Seller] OFF
 GO

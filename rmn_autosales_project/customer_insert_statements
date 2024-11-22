@@ -1,108 +1,98 @@
 USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'10488701', N'64821454 ', N'Martellini', N'Fabio', CAST(N'1989-11-29' AS Date), N'Male', N'86 Fair Oaks Road', N'Arlington', N'TX', N'76004', N'8174662643')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'10488701', N'64821454 ', N'Martellini', N'Fabio', CAST(N'1989-11-29' AS Date), N'Male', N'86 Fair Oaks Road', N'Arlington', N'TX', N'76004', N'817-466-2643')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'11975772', N'60696680 ', N'Batt', N'Tiertza', CAST(N'1980-12-11' AS Date), N'Female', N'45717 Kipling Center', N'Raleigh', N'NC', N'27635', N'9199080086')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'11975772', N'60696680 ', N'Batt', N'Tiertza', CAST(N'1980-12-11' AS Date), N'Female', N'45717 Kipling Center', N'Raleigh', N'NC', N'27635', N'919-908-0086')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'14305132', N'94686944 ', N'Acum', N'Arv', CAST(N'1954-12-05' AS Date), N'Male', N'5 Erie Center', N'Los Angeles', N'CA', N'90060', N'3234839635')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'14305132', N'94686944 ', N'Acum', N'Arv', CAST(N'1954-12-05' AS Date), N'Male', N'5 Erie Center', N'Los Angeles', N'CA', N'90060', N'323-483-9635')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'18543718', N'52426571 ', N'Ratter', N'Caesar', CAST(N'1952-10-04' AS Date), N'Male', N'36453 Monument Point', N'Morgantown', N'WV', N'26505', N'3049093685')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'18543718', N'52426571 ', N'Ratter', N'Caesar', CAST(N'1952-10-04' AS Date), N'Male', N'36453 Monument Point', N'Morgantown', N'WV', N'26505', N'304-909-3685')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'20596289', N'71059261 ', N'Losselyong', N'Siegfried', CAST(N'1947-11-09' AS Date), N'Male', N'3773 Kensington Drive', N'Spokane', N'WA', N'99210', N'5099039037')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'20596289', N'71059261 ', N'Losselyong', N'Siegfried', CAST(N'1947-11-09' AS Date), N'Male', N'3773 Kensington Drive', N'Spokane', N'WA', N'99210', N'509-903-9037')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'21893066', N'93371327 ', N'Swynfen', N'Filbert', CAST(N'1969-09-23' AS Date), N'Male', N'1 West Trail', N'Pasadena', N'CA', N'91131', N'6264144823')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'21893066', N'93371327 ', N'Swynfen', N'Filbert', CAST(N'1969-09-23' AS Date), N'Male', N'1 West Trail', N'Pasadena', N'CA', N'91131', N'626-414-4823')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'25007532', N'84810883 ', N'Coull', N'Ross', CAST(N'1938-01-28' AS Date), N'Male', N'7169 Laurel Avenue', N'Waterbury', N'CT', N'06726', N'2037177016')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'25007532', N'84810883 ', N'Coull', N'Ross', CAST(N'1938-01-28' AS Date), N'Male', N'7169 Laurel Avenue', N'Waterbury', N'CT', N'06726', N'203-717-7016')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'30495853', N'49920788 ', N'Densham', N'Sinclair', CAST(N'1978-05-04' AS Date), N'Bigender', N'70 Oneill Street', N'Tucson', N'AZ', N'85715', N'5207208294')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'30495853', N'49920788 ', N'Densham', N'Sinclair', CAST(N'1978-05-04' AS Date), N'Bigender', N'70 Oneill Street', N'Tucson', N'AZ', N'85715', N'520-720-8294')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'31310104', N'81692783 ', N'Lambotin', N'Lance', CAST(N'1985-10-05' AS Date), N'Male', N'59 Algoma Parkway', N'San Diego', N'CA', N'92186', N'6194034776')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'31310104', N'81692783 ', N'Lambotin', N'Lance', CAST(N'1985-10-05' AS Date), N'Male', N'59 Algoma Parkway', N'San Diego', N'CA', N'92186', N'619-403-4776')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'32373949', N'80295997 ', N'Peegrem', N'Rosalynd', CAST(N'1940-07-28' AS Date), N'Female', N'95 Waubesa Avenue', N'Baton Rouge', N'LA', N'70805', N'2258944587')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'32373949', N'80295997 ', N'Peegrem', N'Rosalynd', CAST(N'1940-07-28' AS Date), N'Female', N'95 Waubesa Avenue', N'Baton Rouge', N'LA', N'70805', N'225-894-4587')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'32787682', N'38830346 ', N'Swendell', N'Forrester', CAST(N'1964-03-20' AS Date), N'Male', N'29922 Barnett Center', N'Mobile', N'AL', N'36610', N'2517247331')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'32787682', N'38830346 ', N'Swendell', N'Forrester', CAST(N'1964-03-20' AS Date), N'Male', N'29922 Barnett Center', N'Mobile', N'AL', N'36610', N'251-724-7331')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'33313176', N'57504007 ', N'Forbes', N'Hi', CAST(N'1962-12-03' AS Date), N'Male', N'2 Vernon Terrace', N'Cleveland', N'OH', N'44118', N'2166460128')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'33313176', N'57504007 ', N'Forbes', N'Hi', CAST(N'1962-12-03' AS Date), N'Male', N'2 Vernon Terrace', N'Cleveland', N'OH', N'44118', N'216-646-0128')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'35973757', N'70637588 ', N'Haberjam', N'Alika', CAST(N'1999-06-21' AS Date), N'Female', N'67788 Arrowood Center', N'Trenton', N'NJ', N'08695', N'6096355060')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'35973757', N'70637588 ', N'Haberjam', N'Alika', CAST(N'1999-06-21' AS Date), N'Female', N'67788 Arrowood Center', N'Trenton', N'NJ', N'08695', N'609-635-5060')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'37526289', N'38398135 ', N'Foye', N'Marve', CAST(N'1947-10-07' AS Date), N'Male', N'77 Charing Cross Hill', N'Fullerton', N'CA', N'92835', N'7148352825')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'37526289', N'38398135 ', N'Foye', N'Marve', CAST(N'1947-10-07' AS Date), N'Male', N'77 Charing Cross Hill', N'Fullerton', N'CA', N'92835', N'714-835-2825')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'40404234', N'58944090 ', N'Andreou', N'Evangeline', CAST(N'1971-08-02' AS Date), N'Female', N'287 Atwood Drive', N'Shawnee Mission', N'KS', N'66205', N'9136972060')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'40404234', N'58944090 ', N'Andreou', N'Evangeline', CAST(N'1971-08-02' AS Date), N'Female', N'287 Atwood Drive', N'Shawnee Mission', N'KS', N'66205', N'913-697-2060')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'40405844', N'62463114 ', N'Village', N'Joletta', CAST(N'1952-08-20' AS Date), N'Agender', N'354 Spaight Parkway', N'Anchorage', N'AK', N'99522', N'9071617460')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'40405844', N'62463114 ', N'Village', N'Joletta', CAST(N'1952-08-20' AS Date), N'Agender', N'354 Spaight Parkway', N'Anchorage', N'AK', N'99522', N'907-161-7460')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'41517499', N'33260525 ', N'Shilling', N'Anny', CAST(N'1999-02-18' AS Date), N'Female', N'6557 Debra Plaza', N'Maple Plain', N'MN', N'55579', N'9527381624')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'41517499', N'33260525 ', N'Shilling', N'Anny', CAST(N'1999-02-18' AS Date), N'Female', N'6557 Debra Plaza', N'Maple Plain', N'MN', N'55579', N'952-738-1624')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'43222133', N'67753903 ', N'Gallamore', N'Venita', CAST(N'2005-03-15' AS Date), N'Female', N'8424 Anzinger Court', N'Detroit', N'MI', N'48242', N'7341323629')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'43222133', N'67753903 ', N'Gallamore', N'Venita', CAST(N'2005-03-15' AS Date), N'Female', N'8424 Anzinger Court', N'Detroit', N'MI', N'48242', N'734-132-3629')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'44826621', N'64922099 ', N'Cuthbert', N'Analise', CAST(N'1959-07-01' AS Date), N'Female', N'24684 Loftsgordon Parkway', N'Fort Smith', N'AR', N'72905', N'4796652224')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'44826621', N'64922099 ', N'Cuthbert', N'Analise', CAST(N'1959-07-01' AS Date), N'Female', N'24684 Loftsgordon Parkway', N'Fort Smith', N'AR', N'72905', N'479-665-2224')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'48482825', N'72161616 ', N'Gilbody', N'Cariotta', CAST(N'1988-05-21' AS Date), N'Female', N'4 Towne Pass', N'Louisville', N'KY', N'40215', N'5023172659')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'48482825', N'72161616 ', N'Gilbody', N'Cariotta', CAST(N'1988-05-21' AS Date), N'Female', N'4 Towne Pass', N'Louisville', N'KY', N'40215', N'502-317-2659')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'49769603', N'91485276 ', N'Heggie', N'Breanne', CAST(N'1948-06-03' AS Date), N'Female', N'2559 Kings Street', N'Saint Louis', N'MO', N'63167', N'3143392634')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'49769603', N'91485276 ', N'Heggie', N'Breanne', CAST(N'1948-06-03' AS Date), N'Female', N'2559 Kings Street', N'Saint Louis', N'MO', N'63167', N'314-339-2634')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'54966942', N'48398087 ', N'Threader', N'Fawne', CAST(N'1977-06-01' AS Date), N'Female', N'67 Texas Point', N'Gaithersburg', N'MD', N'20883', N'2403160805')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'54966942', N'48398087 ', N'Threader', N'Fawne', CAST(N'1977-06-01' AS Date), N'Female', N'67 Texas Point', N'Gaithersburg', N'MD', N'20883', N'240-316-0805')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'56233153', N'44672634 ', N'Halkyard', N'Angel', CAST(N'1955-07-02' AS Date), N'Male', N'9 Fisk Avenue', N'Alexandria', N'VA', N'22301', N'2029195319')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'56233153', N'44672634 ', N'Halkyard', N'Angel', CAST(N'1955-07-02' AS Date), N'Male', N'9 Fisk Avenue', N'Alexandria', N'VA', N'22301', N'202-919-5319')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'56368153', N'10581570 ', N'Singers', N'Cari', CAST(N'1958-09-19' AS Date), N'Female', N'717 Dexter Crossing', N'Fort Worth', N'TX', N'76147', N'8174036215')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'56368153', N'10581570 ', N'Singers', N'Cari', CAST(N'1958-09-19' AS Date), N'Female', N'717 Dexter Crossing', N'Fort Worth', N'TX', N'76147', N'817-403-6215')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'57485509', N'68375215 ', N'Sarginson', N'Delainey', CAST(N'2004-10-27' AS Date), N'Male', N'81 Manufacturers Parkway', N'El Paso', N'TX', N'88589', N'9153196840')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'57485509', N'68375215 ', N'Sarginson', N'Delainey', CAST(N'2004-10-27' AS Date), N'Male', N'81 Manufacturers Parkway', N'El Paso', N'TX', N'88589', N'915-319-6840')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'60513009', N'27538158 ', N'Redgrove', N'Francyne', CAST(N'1956-02-05' AS Date), N'Female', N'1896 Swallow Pass', N'Trenton', N'NJ', N'08650', N'6099466837')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'60513009', N'27538158 ', N'Redgrove', N'Francyne', CAST(N'1956-02-05' AS Date), N'Female', N'1896 Swallow Pass', N'Trenton', N'NJ', N'08650', N'609-946-6837')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'61366486', N'26114567 ', N'Kalberer', N'Silvester', CAST(N'1990-08-18' AS Date), N'Male', N'636 Fordem Way', N'Houston', N'TX', N'77276', N'7139676906')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'61366486', N'26114567 ', N'Kalberer', N'Silvester', CAST(N'1990-08-18' AS Date), N'Male', N'636 Fordem Way', N'Houston', N'TX', N'77276', N'713-967-6906')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'63510361', N'93699305 ', N'Marner', N'Mel', CAST(N'1992-04-03' AS Date), N'Female', N'576 Forest Dale Place', N'Chicago', N'IL', N'60604', N'7735446243')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'63510361', N'93699305 ', N'Marner', N'Mel', CAST(N'1992-04-03' AS Date), N'Female', N'576 Forest Dale Place', N'Chicago', N'IL', N'60604', N'773-544-6243')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'66399662', N'88883703 ', N'Haselgrove', N'Josy', CAST(N'2000-06-16' AS Date), N'Female', N'3 Nancy Crossing', N'Colorado Springs', N'CO', N'80910', N'7191668354')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'66399662', N'88883703 ', N'Haselgrove', N'Josy', CAST(N'2000-06-16' AS Date), N'Female', N'3 Nancy Crossing', N'Colorado Springs', N'CO', N'80910', N'719-166-8354')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'67036668', N'25479088 ', N'Jancy', N'Neala', CAST(N'1930-05-30' AS Date), N'Female', N'545 Dennis Way', N'Winston Salem', N'NC', N'27105', N'7044266923')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'67036668', N'25479088 ', N'Jancy', N'Neala', CAST(N'1930-05-30' AS Date), N'Female', N'545 Dennis Way', N'Winston Salem', N'NC', N'27105', N'704-426-6923')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'68264897', N'32359954 ', N'Downing', N'Jessica', CAST(N'1952-10-03' AS Date), N'Female', N'479 Comanche Trail', N'Savannah', N'GA', N'31410', N'9129064319')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'68264897', N'32359954 ', N'Downing', N'Jessica', CAST(N'1952-10-03' AS Date), N'Female', N'479 Comanche Trail', N'Savannah', N'GA', N'31410', N'912-906-4319')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'69633268', N'80472176 ', N'Shillom', N'Murvyn', CAST(N'2003-05-03' AS Date), N'Male', N'6358 Michigan Road', N'Charleston', N'WV', N'25313', N'3042457345')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'69633268', N'80472176 ', N'Shillom', N'Murvyn', CAST(N'2003-05-03' AS Date), N'Male', N'6358 Michigan Road', N'Charleston', N'WV', N'25313', N'304-245-7345')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'70784505', N'15384436 ', N'Harler', N'Nap', CAST(N'1937-05-17' AS Date), N'Male', N'89 Loeprich Drive', N'West Hartford', N'CT', N'06127', N'8604251810')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'70784505', N'15384436 ', N'Harler', N'Nap', CAST(N'1937-05-17' AS Date), N'Male', N'89 Loeprich Drive', N'West Hartford', N'CT', N'06127', N'860-425-1810')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'74804496', N'12258865 ', N'Minerdo', N'Rowena', CAST(N'1974-03-07' AS Date), N'Female', N'4753 Helena Park', N'Cincinnati', N'OH', N'45243', N'5133038319')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'74804496', N'12258865 ', N'Minerdo', N'Rowena', CAST(N'1974-03-07' AS Date), N'Female', N'4753 Helena Park', N'Cincinnati', N'OH', N'45243', N'513-303-8319')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'76213511', N'33136317 ', N'Van Son', N'Roch', CAST(N'1973-10-31' AS Date), N'Female', N'6960 Holmberg Terrace', N'Hialeah', N'FL', N'33018', N'7865540806')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'76213511', N'33136317 ', N'Van Son', N'Roch', CAST(N'1973-10-31' AS Date), N'Female', N'6960 Holmberg Terrace', N'Hialeah', N'FL', N'33018', N'786-554-0806')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'76526567', N'97236577 ', N'Cripin', N'Laina', CAST(N'1942-08-11' AS Date), N'Female', N'43 Derek Road', N'New Haven', N'CT', N'06533', N'2031273490')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'76526567', N'97236577 ', N'Cripin', N'Laina', CAST(N'1942-08-11' AS Date), N'Female', N'43 Derek Road', N'New Haven', N'CT', N'06533', N'203-127-3490')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'76705390', N'60383288 ', N'Maestro', N'Ozzie', CAST(N'1970-07-13' AS Date), N'Male', N'358 Birchwood Place', N'Kansas City', N'KS', N'66160', N'9136177677')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'76705390', N'60383288 ', N'Maestro', N'Ozzie', CAST(N'1970-07-13' AS Date), N'Male', N'358 Birchwood Place', N'Kansas City', N'KS', N'66160', N'913-617-7677')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'79189413', N'97807641 ', N'Klaas', N'Crosby', CAST(N'1927-12-14' AS Date), N'Male', N'2 Service Alley', N'Newport News', N'VA', N'23605', N'7577832976')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'79189413', N'97807641 ', N'Klaas', N'Crosby', CAST(N'1927-12-14' AS Date), N'Male', N'2 Service Alley', N'Newport News', N'VA', N'23605', N'757-783-2976')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'83132638', N'67674560 ', N'Paddock', N'Lonnard', CAST(N'1927-08-18' AS Date), N'Male', N'6160 Clemons Place', N'Spring Hill', N'FL', N'34611', N'3526928934')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'83132638', N'67674560 ', N'Paddock', N'Lonnard', CAST(N'1927-08-18' AS Date), N'Male', N'6160 Clemons Place', N'Spring Hill', N'FL', N'34611', N'352-692-8934')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'83447963', N'28104606 ', N'Butt', N'Archer', CAST(N'1928-06-25' AS Date), N'Male', N'004 Little Fleur Drive', N'Sacramento', N'CA', N'94263', N'9166815891')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'83447963', N'28104606 ', N'Butt', N'Archer', CAST(N'1928-06-25' AS Date), N'Male', N'004 Little Fleur Drive', N'Sacramento', N'CA', N'94263', N'916-681-5891')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'83642798', N'49693174 ', N'Jiles', N'Zonnya', CAST(N'2002-01-13' AS Date), N'Female', N'931 Namekagon Hill', N'Dallas', N'TX', N'75310', N'2144049416')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'83642798', N'49693174 ', N'Jiles', N'Zonnya', CAST(N'2002-01-13' AS Date), N'Female', N'931 Namekagon Hill', N'Dallas', N'TX', N'75310', N'214-404-9416')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'87108482', N'40504277 ', N'Greenhalf', N'Caressa', CAST(N'1949-03-15' AS Date), N'Female', N'188 Dottie Hill', N'Fort Wayne', N'IN', N'46867', N'2605774301')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'87108482', N'40504277 ', N'Greenhalf', N'Caressa', CAST(N'1949-03-15' AS Date), N'Female', N'188 Dottie Hill', N'Fort Wayne', N'IN', N'46867', N'260-577-4301')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'89618957', N'56002572 ', N'Strewthers', N'Ambros', CAST(N'1957-03-28' AS Date), N'Male', N'9091 Ridge Oak Road', N'Riverside', N'CA', N'92513', N'9512978369')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'89618957', N'56002572 ', N'Strewthers', N'Ambros', CAST(N'1957-03-28' AS Date), N'Male', N'9091 Ridge Oak Road', N'Riverside', N'CA', N'92513', N'951-297-8369')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'92023525', N'86759912 ', N'Caudray', N'Dayna', CAST(N'2005-07-08' AS Date), N'Female', N'11493 Roxbury Alley', N'Corpus Christi', N'TX', N'78405', N'3618621078')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'92023525', N'86759912 ', N'Caudray', N'Dayna', CAST(N'2005-07-08' AS Date), N'Female', N'11493 Roxbury Alley', N'Corpus Christi', N'TX', N'78405', N'361-862-1078')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'92059398', N'79917965 ', N'Tubridy', N'Enid', CAST(N'1940-02-20' AS Date), N'Female', N'0 Stone Corner Park', N'Lansing', N'MI', N'48901', N'5175681259')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'92059398', N'79917965 ', N'Tubridy', N'Enid', CAST(N'1940-02-20' AS Date), N'Female', N'0 Stone Corner Park', N'Lansing', N'MI', N'48901', N'517-568-1259')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'97201456', N'69684907 ', N'Horning', N'Tabby', CAST(N'1989-07-15' AS Date), N'Polygender', N'156 Arizona Avenue', N'Portsmouth', N'NH', N'00214', N'6039289707')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'97201456', N'69684907 ', N'Horning', N'Tabby', CAST(N'1989-07-15' AS Date), N'Polygender', N'156 Arizona Avenue', N'Portsmouth', N'NH', N'00214', N'603-928-9707')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'98821922', N'92065821 ', N'Jessup', N'Domingo', CAST(N'1998-06-28' AS Date), N'Male', N'80253 Schurz Street', N'Spokane', N'WA', N'99260', N'5092454798')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'98821922', N'92065821 ', N'Jessup', N'Domingo', CAST(N'1998-06-28' AS Date), N'Male', N'80253 Schurz Street', N'Spokane', N'WA', N'99260', N'509-245-4798')
 GO
-INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'99875365', N'96374283 ', N'Cullabine', N'Dylan', CAST(N'1977-01-30' AS Date), N'Male', N'0221 Pearson Street', N'Pensacola', N'FL', N'32520', N'8505401866')
+INSERT [dbo].[Customer] ([customer_id], [tax_payer_id], [last_name], [first_name], [date_of_birth], [gender], [street], [city], [state], [zip], [phone]) VALUES (N'99875365', N'96374283 ', N'Cullabine', N'Dylan', CAST(N'1977-01-30' AS Date), N'Male', N'0221 Pearson Street', N'Pensacola', N'FL', N'32520', N'850-540-1866')
 GO
-
-
---change format of phone numbers to ###-###-####:
-select * from Customer
-
-alter table Customer
-alter column phone varchar(12);
-
-update Customer
-set phone = STUFF(STUFF(phone, 4, 0, '-'), 8, 0, '-')

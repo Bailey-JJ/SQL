@@ -1,0 +1,26 @@
+USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
+GO
+INSERT [dbo].[SalesHeader] ([sale_id], [employee_id], [customer_id], [sale_date], [total_due]) VALUES (N'23983574', N'12      ', N'18543718', CAST(N'2023-07-26' AS Date), CAST(20935.13 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[SalesHeader] ([sale_id], [employee_id], [customer_id], [sale_date], [total_due]) VALUES (N'35682916', N'15      ', N'25007532', CAST(N'2024-03-03' AS Date), CAST(29850.89 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[SalesHeader] ([sale_id], [employee_id], [customer_id], [sale_date], [total_due]) VALUES (N'39896491', N'16      ', N'30495853', CAST(N'2023-01-07' AS Date), CAST(50390.66 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[SalesHeader] ([sale_id], [employee_id], [customer_id], [sale_date], [total_due]) VALUES (N'46471479', N'18      ', N'32373949', CAST(N'2024-06-03' AS Date), CAST(59426.71 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[SalesHeader] ([sale_id], [employee_id], [customer_id], [sale_date], [total_due]) VALUES (N'55957766', N'20      ', N'35973757', CAST(N'2023-11-15' AS Date), CAST(54422.06 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[SalesHeader] ([sale_id], [employee_id], [customer_id], [sale_date], [total_due]) VALUES (N'62347903', N'22      ', N'40404234', CAST(N'2024-05-18' AS Date), CAST(123828.88 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[SalesHeader] ([sale_id], [employee_id], [customer_id], [sale_date], [total_due]) VALUES (N'67893627', N'24      ', N'41517499', CAST(N'2023-07-10' AS Date), CAST(91262.39 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[SalesHeader] ([sale_id], [employee_id], [customer_id], [sale_date], [total_due]) VALUES (N'74962448', N'25      ', N'43222133', CAST(N'2023-07-21' AS Date), CAST(42428.66 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[SalesHeader] ([sale_id], [employee_id], [customer_id], [sale_date], [total_due]) VALUES (N'86941588', N'27      ', N'48482825', CAST(N'2023-08-11' AS Date), CAST(39434.20 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[SalesHeader] ([sale_id], [employee_id], [customer_id], [sale_date], [total_due]) VALUES (N'96513086', N'29      ', N'54966942', CAST(N'2023-08-22' AS Date), CAST(46360.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[SalesHeader] ([sale_id], [employee_id], [customer_id], [sale_date], [total_due]) VALUES (N'98019110', N'3       ', N'56233153', CAST(N'2023-04-28' AS Date), CAST(37356.93 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[SalesHeader] ([sale_id], [employee_id], [customer_id], [sale_date], [total_due]) VALUES (N'98029822', N'30      ', N'56368153', CAST(N'2023-06-14' AS Date), CAST(114079.69 AS Decimal(10, 2)))
+GO

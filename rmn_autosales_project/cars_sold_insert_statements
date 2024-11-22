@@ -1,0 +1,52 @@
+USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'23983574', N'95854355', 1, N'137FA90361E621143', 43, 53727, CAST(20935.13 AS Decimal(10, 2)), CAST(4187.03 AS Decimal(10, 2)), CAST(16748.10 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'35682916', N'42569995', 4, N'19UUA66208A123508', 11, 131195, CAST(29850.89 AS Decimal(10, 2)), CAST(5970.18 AS Decimal(10, 2)), CAST(23880.71 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'39896491', N'46398604', 4, N'19XFB2F53DE713491', 33, 198482, CAST(24783.30 AS Decimal(10, 2)), CAST(4956.66 AS Decimal(10, 2)), CAST(19826.64 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'39896491', N'67090647', 1, N'19XFB4F33EE148090', 8, 55753, CAST(25607.36 AS Decimal(10, 2)), CAST(5121.47 AS Decimal(10, 2)), CAST(20485.89 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'46471479', N'53911787', 2, N'1B3CB9HA7AD808558', 29, 64230, CAST(20127.47 AS Decimal(10, 2)), CAST(4025.49 AS Decimal(10, 2)), CAST(16101.98 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'46471479', N'54591379', 1, N'1C3BCBEB5DN539572', 34, 152833, CAST(39299.24 AS Decimal(10, 2)), CAST(7859.85 AS Decimal(10, 2)), CAST(31439.39 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'55957766', N'15216303', 1, N'1C3CDZAB1DN737954', 38, 86184, CAST(31503.29 AS Decimal(10, 2)), CAST(6300.66 AS Decimal(10, 2)), CAST(25202.63 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'55957766', N'52854537', 1, N'1C3CDZCB3EN952363', 14, 207007, CAST(22918.77 AS Decimal(10, 2)), CAST(4583.75 AS Decimal(10, 2)), CAST(18335.02 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'62347903', N'27081449', 1, N'1C4RDJDG4FC778639', 41, 206275, CAST(28902.96 AS Decimal(10, 2)), CAST(5780.59 AS Decimal(10, 2)), CAST(23122.37 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'62347903', N'32774729', 2, N'1D7RE3GK4AS717644', 43, 75148, CAST(28430.55 AS Decimal(10, 2)), CAST(5686.11 AS Decimal(10, 2)), CAST(22744.44 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'62347903', N'60339352', 4, N'1D7RV1CT9BS470724', 46, 213833, CAST(23855.38 AS Decimal(10, 2)), CAST(4771.08 AS Decimal(10, 2)), CAST(19084.30 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'62347903', N'69779203', 1, N'1FMCU4K31AK176036', 37, 213080, CAST(21119.06 AS Decimal(10, 2)), CAST(4223.81 AS Decimal(10, 2)), CAST(16895.25 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'62347903', N'71710548', 4, N'1FTSW3B53AE432374', 26, 148695, CAST(21520.93 AS Decimal(10, 2)), CAST(4304.19 AS Decimal(10, 2)), CAST(17216.74 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'67893627', N'18396954', 4, N'1G4CU541214405168', 4, 50410, CAST(29017.98 AS Decimal(10, 2)), CAST(5803.60 AS Decimal(10, 2)), CAST(23214.38 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'67893627', N'19907279', 1, N'1G4GF5G34CF612855', 18, 148711, CAST(28515.47 AS Decimal(10, 2)), CAST(5703.09 AS Decimal(10, 2)), CAST(22812.38 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'67893627', N'72072335', 1, N'1G6AM5S33E0376683', 48, 115966, CAST(33728.94 AS Decimal(10, 2)), CAST(6745.79 AS Decimal(10, 2)), CAST(26983.15 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'74962448', N'67643832', 2, N'1G6AX5S33F0655690', 12, 176891, CAST(42428.66 AS Decimal(10, 2)), CAST(8485.73 AS Decimal(10, 2)), CAST(33942.93 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'86941588', N'51404445', 2, N'1G6DG577180124564', 18, 158486, CAST(39434.20 AS Decimal(10, 2)), CAST(7886.84 AS Decimal(10, 2)), CAST(31547.36 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'96513086', N'42547011', 4, N'1G6DV5EP9A0630058', 27, 206519, CAST(19102.63 AS Decimal(10, 2)), CAST(3820.53 AS Decimal(10, 2)), CAST(15282.10 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'96513086', N'98438802', 1, N'1G6EC12902B203804', 1, 182143, CAST(27258.21 AS Decimal(10, 2)), CAST(5451.64 AS Decimal(10, 2)), CAST(21806.57 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'98019110', N'71743341', 1, N'1GD22ZCG1CZ548682', 35, 235613, CAST(37356.93 AS Decimal(10, 2)), CAST(7471.39 AS Decimal(10, 2)), CAST(29885.54 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'98029822', N'28289052', 4, N'1GTN1TEH4FZ496122', 40, 184386, CAST(35056.49 AS Decimal(10, 2)), CAST(7011.30 AS Decimal(10, 2)), CAST(28045.19 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'98029822', N'34355803', 4, N'1GTN1TEX1CZ201738', 35, 92380, CAST(28846.06 AS Decimal(10, 2)), CAST(5769.21 AS Decimal(10, 2)), CAST(23076.85 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'98029822', N'39580283', 2, N'1GYEE23A290737246', 43, 91651, CAST(21055.07 AS Decimal(10, 2)), CAST(4211.01 AS Decimal(10, 2)), CAST(16844.06 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[CarsSold] ([sale_id], [item_id], [condition_id], [VIN], [warranty_id], [miles_at_sale], [sale_price], [down_payment], [financed_amount], [amount_due]) VALUES (N'98029822', N'98955203', 4, N'1GYS4AEF0DR605616', 43, 173005, CAST(29122.07 AS Decimal(10, 2)), CAST(5824.41 AS Decimal(10, 2)), CAST(23297.66 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO

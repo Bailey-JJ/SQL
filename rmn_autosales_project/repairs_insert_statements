@@ -1,0 +1,202 @@
+USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-04-26' AS Date), N'137FA90361E621143', 21, CAST(4297.42 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-02-03' AS Date), N'19UUA66208A123508', 24, CAST(1487.67 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-12-18' AS Date), N'19XFB2F53DE713491', 29, CAST(2392.98 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-02-07' AS Date), N'19XFB4F33EE148090', 31, CAST(3904.33 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-05-06' AS Date), N'1B3CB9HA7AD808558', 26, CAST(4306.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-05-11' AS Date), N'1C3BCBEB5DN539572', 31, CAST(3712.53 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-08-03' AS Date), N'1C3CDZAB1DN737954', 26, CAST(4275.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-05-08' AS Date), N'1C3CDZCB3EN952363', 30, CAST(2472.31 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-06-30' AS Date), N'1C4RDJDG4FC778639', 26, CAST(1398.04 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-05-03' AS Date), N'1D7RE3GK4AS717644', 22, CAST(4475.35 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-07-03' AS Date), N'1D7RV1CT9BS470724', 19, CAST(705.77 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-04-16' AS Date), N'1FMCU4K31AK176036', 28, CAST(933.99 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-04-18' AS Date), N'1FTSW3B53AE432374', 23, CAST(3518.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-04-18' AS Date), N'1G4CU541214405168', 28, CAST(1993.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-04-21' AS Date), N'1G4GF5G34CF612855', 19, CAST(4749.41 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-06-17' AS Date), N'1G6AM5S33E0376683', 30, CAST(4634.82 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-06-17' AS Date), N'1G6AX5S33F0655690', 29, CAST(4123.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-06-14' AS Date), N'1G6DG577180124564', 24, CAST(4066.07 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-06-17' AS Date), N'1G6DV5EP9A0630058', 27, CAST(4300.40 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-06-15' AS Date), N'1G6EC12902B203804', 23, CAST(3997.25 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-03-25' AS Date), N'1GD22ZCG1CZ548682', 18, CAST(4948.40 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-03-26' AS Date), N'1GTN1TEH4FZ496122', 19, CAST(1087.31 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-03-25' AS Date), N'1GTN1TEX1CZ201738', 31, CAST(2469.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-03-30' AS Date), N'1GYEE23A290737246', 25, CAST(4546.60 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-03-25' AS Date), N'1GYS4AEF0DR605616', 22, CAST(1782.57 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-04-03' AS Date), N'1N4AA5AP7EC266511', 23, CAST(3931.08 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-04-07' AS Date), N'1N6AD0CU9FN655595', 28, CAST(1461.71 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-04-07' AS Date), N'1N6AF0LY6FN297837', 20, CAST(213.14 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-04-07' AS Date), N'2C3CDXCT2CH281433', 27, CAST(2604.28 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-04-06' AS Date), N'2GKALMEK3F6718062', 28, CAST(633.68 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-12-30' AS Date), N'3D73Y4HL2AG510591', 25, CAST(4318.42 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-12-30' AS Date), N'3D7TP2CT6BG070925', 28, CAST(2423.86 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-12-30' AS Date), N'3D7TT2CT3BG682866', 24, CAST(571.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-12-29' AS Date), N'3LNHL2GC2CR885677', 31, CAST(2018.70 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-04-11' AS Date), N'3N1AB7APXFY380663', 19, CAST(2479.85 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-04-10' AS Date), N'3VW1K7AJ1CM534217', 31, CAST(580.72 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-04-27' AS Date), N'3VW8S7AT0FM898312', 17, CAST(3024.31 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-05-01' AS Date), N'4JGCB2FE7AA856215', 28, CAST(2480.60 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-08-24' AS Date), N'4T1BD1EB8EU416273', 24, CAST(4454.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-08-20' AS Date), N'4T1BK1EB5FU298187', 23, CAST(932.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-04-12' AS Date), N'4T3BA3BB5CU127221', 26, CAST(2583.19 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-04-12' AS Date), N'4USBT33565L572778', 24, CAST(4963.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-12-19' AS Date), N'5FNRL5H23CB134136', 17, CAST(4737.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-12-23' AS Date), N'5FNYF3H21FB542517', 20, CAST(4275.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-01-10' AS Date), N'5J6TF1H31DL589560', 18, CAST(3120.46 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-01-12' AS Date), N'5LMJJ3H54BE726672', 24, CAST(2348.12 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-09-13' AS Date), N'5NPDH4AE6DH661598', 20, CAST(2163.80 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-09-14' AS Date), N'5TDBCRFH7FS688537', 22, CAST(1230.67 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-03-15' AS Date), N'5UXWZ7C52F0058554', 25, CAST(4920.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-03-19' AS Date), N'5UXZV4C56CL003767', 25, CAST(1579.39 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-06-21' AS Date), N'5UXZV8C50CL020605', 22, CAST(3242.67 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-06-26' AS Date), N'JH4DC23911S696385', 17, CAST(718.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-08-23' AS Date), N'JHMZE2H37DS233188', 18, CAST(1048.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-08-19' AS Date), N'JM1CR2W35A0636558', 25, CAST(3193.39 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-12-06' AS Date), N'JM1NC2LF8E0242602', 18, CAST(2651.10 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-12-06' AS Date), N'JN1CV6AP6CM754775', 31, CAST(2236.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-08-12' AS Date), N'JN1CV6EK8DM787129', 17, CAST(2825.09 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-08-13' AS Date), N'JN8AS5MT1AW643847', 19, CAST(2412.26 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-06-22' AS Date), N'JN8AZ2KR2AT258736', 29, CAST(666.73 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-06-24' AS Date), N'JTDKDTB38F1783383', 21, CAST(3041.73 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-11-24' AS Date), N'JTDKDTB38F1898503', 28, CAST(985.19 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-11-21' AS Date), N'JTDKN3DP1D3209237', 25, CAST(4444.41 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-01-01' AS Date), N'JTDKN3DU3F0146507', 17, CAST(2546.89 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-12-31' AS Date), N'JTDZN3EU1EJ699050', 29, CAST(1005.05 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-04-04' AS Date), N'JTEBU5JR7D5928996', 21, CAST(1169.35 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-04-01' AS Date), N'JTJHY7AX2A4535130', 26, CAST(4805.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-11-20' AS Date), N'KNAFU5A26B5883424', 23, CAST(1056.24 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-11-22' AS Date), N'KNAGM4AD4C5885335', 20, CAST(2246.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-03-03' AS Date), N'NM0KS7DN8AT651262', 26, CAST(9.41 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-03-06' AS Date), N'SCBBB7ZH7EC966889', 31, CAST(1516.06 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-04-13' AS Date), N'SCBCP7ZA8AC317959', 27, CAST(16.94 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-04-12' AS Date), N'SCFAB42391K274625', 28, CAST(2147.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-12-11' AS Date), N'SCFEBBCF7BG787195', 18, CAST(1149.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-12-11' AS Date), N'SCFFDABE8CG196389', 18, CAST(3506.78 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-10-02' AS Date), N'TRUWX28N121351942', 30, CAST(2362.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-10-01' AS Date), N'WA1CMAFE2CD641460', 17, CAST(668.70 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-08-21' AS Date), N'WAUAKAFB4AN955222', 30, CAST(4093.95 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2024-08-20' AS Date), N'WAUAKAFBXBN464204', 23, CAST(840.51 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-02-12' AS Date), N'WAUHF98P29A084561', 20, CAST(1966.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-02-11' AS Date), N'WAUKD98P87A960543', 31, CAST(1177.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-10-06' AS Date), N'WAUKH98E98A745404', 23, CAST(3052.66 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-10-03' AS Date), N'WAUSFAFL0BA722464', 19, CAST(2318.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-03-17' AS Date), N'WAUUL78E45A897775', 20, CAST(34.64 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-03-21' AS Date), N'WAUXF98K79A237824', 17, CAST(932.19 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-05-27' AS Date), N'WBA3B5C57DF003814', 22, CAST(4376.26 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-05-24' AS Date), N'WBABD33465J365911', 31, CAST(2141.89 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-01-22' AS Date), N'WBAEP33413P471469', 20, CAST(1589.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-01-23' AS Date), N'WBAEV534X3K423578', 28, CAST(3802.33 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-12-18' AS Date), N'WBAKG1C51DJ061484', 27, CAST(1624.00 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2022-12-14' AS Date), N'WBANE53577C280582', 20, CAST(3505.85 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-12-18' AS Date), N'WBANU5C50AB362167', 27, CAST(278.14 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-12-18' AS Date), N'WBAPM7G5XAN643387', 30, CAST(4905.44 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-08-02' AS Date), N'WBAUN1C5XAV442768', 18, CAST(344.32 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-08-01' AS Date), N'WBAVM5C54EV540778', 18, CAST(2160.33 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-04-06' AS Date), N'WBAYE4C53ED802221', 18, CAST(3912.63 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-04-03' AS Date), N'WBXPA73444W257560', 20, CAST(1178.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-03-15' AS Date), N'WVGAV7AX0CW905930', 22, CAST(1032.12 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-03-13' AS Date), N'WVGAV7AX3AW559465', 20, CAST(1808.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-09-01' AS Date), N'WVGAV7AX4CW193275', 22, CAST(4917.99 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[Repairs] ([repair_date], [VIN], [shop_id], [repair_cost]) VALUES (CAST(N'2023-09-01' AS Date), N'WVGFF9BPXBD833884', 17, CAST(2982.46 AS Decimal(10, 2)))
+GO

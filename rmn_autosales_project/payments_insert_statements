@@ -1,0 +1,52 @@
+USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'12040270', N'23983574', N'95854355', N'123303137809')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'12447857', N'35682916', N'42569995', N'156016554430')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'19020782', N'39896491', N'46398604', N'193317252013')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'33096796', N'39896491', N'67090647', N'195253938889')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'35335942', N'46471479', N'53911787', N'233009242892')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'37006023', N'46471479', N'54591379', N'271808159033')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'39463404', N'55957766', N'15216303', N'290897432630')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'40573684', N'55957766', N'52854537', N'301385001145')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'48325516', N'62347903', N'27081449', N'332595208926')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'49957556', N'62347903', N'32774729', N'346005237926')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'54433888', N'62347903', N'60339352', N'421068876864')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'55147473', N'62347903', N'69779203', N'441886449613')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'55372916', N'62347903', N'71710548', N'468457573938')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'55457685', N'67893627', N'18396954', N'479434068729')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'58140802', N'67893627', N'19907279', N'561969056158')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'59805791', N'67893627', N'72072335', N'600201011672')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'59900822', N'74962448', N'67643832', N'659382948579')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'63896747', N'86941588', N'51404445', N'670580354656')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'65447261', N'96513086', N'42547011', N'787227873438')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'67452813', N'96513086', N'98438802', N'842444694779')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'67707132', N'98019110', N'71743341', N'874821301402')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'72055566', N'98029822', N'28289052', N'922396554936')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'88517172', N'98029822', N'34355803', N'928190430392')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'93453980', N'98029822', N'39580283', N'938607955909')
+GO
+INSERT [dbo].[Payments] ([payment_id], [sale_id], [item_id], [bank_acc]) VALUES (N'98775890', N'98029822', N'98955203', N'994381912853')
+GO

@@ -1,0 +1,1202 @@
+USE [INFO2410_601_RMN_AutoSale_DatabaseMasters]
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2023-01-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2023-02-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2023-03-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2023-04-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2023-05-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2023-06-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2023-07-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2023-08-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2023-09-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2023-10-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2023-11-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2023-12-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2024-01-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2024-02-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2024-03-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2024-04-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2024-05-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2024-06-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2024-07-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2024-08-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2024-09-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2024-10-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2024-11-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12040270', CAST(N'2024-12-01' AS Date), CAST(697.84 AS Decimal(10, 2)), CAST(697.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2023-01-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2023-02-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2023-03-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2023-04-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2023-05-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2023-06-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2023-07-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2023-08-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2023-09-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2023-10-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2023-11-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2023-12-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2024-01-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2024-02-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2024-03-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2024-04-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2024-05-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2024-06-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2024-07-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2024-08-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2024-09-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2024-10-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2024-11-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'12447857', CAST(N'2024-12-01' AS Date), CAST(995.03 AS Decimal(10, 2)), CAST(995.03 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2023-01-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2023-02-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2023-03-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2023-04-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2023-05-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2023-06-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2023-07-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2023-08-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2023-09-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2023-10-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2023-11-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2023-12-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2024-01-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2024-02-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2024-03-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2024-04-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2024-05-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2024-06-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2024-07-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2024-08-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2024-09-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2024-10-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2024-11-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'19020782', CAST(N'2024-12-01' AS Date), CAST(826.11 AS Decimal(10, 2)), CAST(826.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2023-01-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2023-02-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2023-03-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2023-04-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2023-05-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2023-06-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2023-07-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2023-08-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2023-09-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2023-10-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2023-11-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2023-12-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2024-01-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2024-02-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2024-03-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2024-04-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2024-05-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2024-06-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2024-07-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2024-08-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2024-09-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2024-10-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2024-11-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'33096796', CAST(N'2024-12-01' AS Date), CAST(853.58 AS Decimal(10, 2)), CAST(853.58 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2023-01-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2023-02-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2023-03-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2023-04-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2023-05-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2023-06-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2023-07-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2023-08-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2023-09-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2023-10-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2023-11-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2023-12-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2024-01-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2024-02-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2024-03-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2024-04-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2024-05-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2024-06-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2024-07-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2024-08-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2024-09-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2024-10-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2024-11-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'35335942', CAST(N'2024-12-01' AS Date), CAST(670.92 AS Decimal(10, 2)), CAST(670.92 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2023-01-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2023-02-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2023-03-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2023-04-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2023-05-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2023-06-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2023-07-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2023-08-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2023-09-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2023-10-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2023-11-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2023-12-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2024-01-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2024-02-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2024-03-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2024-04-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2024-05-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2024-06-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2024-07-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2024-08-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2024-09-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2024-10-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2024-11-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'37006023', CAST(N'2024-12-01' AS Date), CAST(1309.97 AS Decimal(10, 2)), CAST(1309.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2023-01-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2023-02-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2023-03-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2023-04-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2023-05-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2023-06-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2023-07-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2023-08-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2023-09-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2023-10-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2023-11-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2023-12-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2024-01-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2024-02-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2024-03-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2024-04-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2024-05-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2024-06-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2024-07-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2024-08-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2024-09-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2024-10-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2024-11-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'39463404', CAST(N'2024-12-01' AS Date), CAST(1050.11 AS Decimal(10, 2)), CAST(1050.11 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2023-01-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2023-02-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2023-03-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2023-04-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2023-05-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2023-06-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2023-07-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2023-08-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2023-09-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2023-10-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2023-11-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2023-12-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2024-01-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2024-02-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2024-03-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2024-04-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2024-05-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2024-06-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2024-07-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2024-08-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2024-09-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2024-10-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2024-11-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'40573684', CAST(N'2024-12-01' AS Date), CAST(763.96 AS Decimal(10, 2)), CAST(763.96 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2023-01-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2023-02-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2023-03-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2023-04-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2023-05-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2023-06-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2023-07-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2023-08-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2023-09-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2023-10-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2023-11-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2023-12-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2024-01-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2024-02-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2024-03-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2024-04-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2024-05-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2024-06-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2024-07-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2024-08-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2024-09-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2024-10-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2024-11-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'48325516', CAST(N'2024-12-01' AS Date), CAST(963.43 AS Decimal(10, 2)), CAST(963.43 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2023-01-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2023-02-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2023-03-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2023-04-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2023-05-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2023-06-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2023-07-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2023-08-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2023-09-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2023-10-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2023-11-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2023-12-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2024-01-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2024-02-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2024-03-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2024-04-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2024-05-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2024-06-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2024-07-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2024-08-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2024-09-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2024-10-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2024-11-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'49957556', CAST(N'2024-12-01' AS Date), CAST(947.69 AS Decimal(10, 2)), CAST(947.69 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2023-01-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2023-02-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2023-03-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2023-04-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2023-05-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2023-06-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2023-07-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2023-08-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2023-09-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2023-10-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2023-11-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2023-12-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2024-01-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2024-02-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2024-03-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2024-04-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2024-05-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2024-06-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2024-07-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2024-08-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2024-09-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2024-10-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2024-11-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'54433888', CAST(N'2024-12-01' AS Date), CAST(795.18 AS Decimal(10, 2)), CAST(795.18 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2023-01-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2023-02-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2023-03-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2023-04-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2023-05-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2023-06-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2023-07-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2023-08-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2023-09-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2023-10-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2023-11-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2023-12-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2024-01-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2024-02-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2024-03-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2024-04-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2024-05-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2024-06-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2024-07-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2024-08-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2024-09-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2024-10-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2024-11-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55147473', CAST(N'2024-12-01' AS Date), CAST(703.97 AS Decimal(10, 2)), CAST(703.97 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2023-01-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2023-02-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2023-03-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2023-04-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2023-05-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2023-06-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2023-07-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2023-08-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2023-09-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2023-10-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2023-11-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2023-12-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2024-01-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2024-02-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2024-03-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2024-04-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2024-05-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2024-06-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2024-07-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2024-08-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2024-09-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2024-10-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2024-11-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55372916', CAST(N'2024-12-01' AS Date), CAST(717.36 AS Decimal(10, 2)), CAST(717.36 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2023-01-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2023-02-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2023-03-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2023-04-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2023-05-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2023-06-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2023-07-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2023-08-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2023-09-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2023-10-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2023-11-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2023-12-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2024-01-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2024-02-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2024-03-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2024-04-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2024-05-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2024-06-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2024-07-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2024-08-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2024-09-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2024-10-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2024-11-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'55457685', CAST(N'2024-12-01' AS Date), CAST(967.27 AS Decimal(10, 2)), CAST(967.27 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2023-01-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2023-02-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2023-03-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2023-04-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2023-05-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2023-06-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2023-07-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2023-08-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2023-09-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2023-10-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2023-11-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2023-12-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2024-01-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2024-02-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2024-03-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2024-04-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2024-05-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2024-06-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2024-07-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2024-08-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2024-09-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2024-10-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2024-11-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'58140802', CAST(N'2024-12-01' AS Date), CAST(950.52 AS Decimal(10, 2)), CAST(950.52 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2023-01-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2023-02-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2023-03-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2023-04-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2023-05-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2023-06-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2023-07-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2023-08-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2023-09-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2023-10-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2023-11-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2023-12-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2024-01-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2024-02-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2024-03-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2024-04-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2024-05-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2024-06-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2024-07-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2024-08-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2024-09-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2024-10-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2024-11-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59805791', CAST(N'2024-12-01' AS Date), CAST(1124.30 AS Decimal(10, 2)), CAST(1124.30 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2023-01-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2023-02-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2023-03-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2023-04-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2023-05-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2023-06-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2023-07-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2023-08-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2023-09-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2023-10-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2023-11-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2023-12-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2024-01-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2024-02-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2024-03-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2024-04-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2024-05-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2024-06-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2024-07-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2024-08-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2024-09-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2024-10-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2024-11-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'59900822', CAST(N'2024-12-01' AS Date), CAST(1414.29 AS Decimal(10, 2)), CAST(1414.29 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2023-01-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2023-02-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2023-03-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2023-04-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2023-05-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2023-06-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2023-07-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2023-08-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2023-09-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2023-10-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2023-11-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2023-12-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2024-01-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2024-02-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2024-03-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2024-04-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2024-05-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2024-06-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2024-07-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2024-08-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2024-09-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2024-10-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2024-11-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'63896747', CAST(N'2024-12-01' AS Date), CAST(1314.47 AS Decimal(10, 2)), CAST(1314.47 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2023-01-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2023-02-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2023-03-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2023-04-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2023-05-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2023-06-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2023-07-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2023-08-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2023-09-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2023-10-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2023-11-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2023-12-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2024-01-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2024-02-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2024-03-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2024-04-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2024-05-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2024-06-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2024-07-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2024-08-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2024-09-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2024-10-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2024-11-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'65447261', CAST(N'2024-12-01' AS Date), CAST(636.75 AS Decimal(10, 2)), CAST(636.75 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2023-01-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2023-02-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2023-03-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2023-04-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2023-05-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2023-06-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2023-07-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2023-08-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2023-09-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2023-10-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2023-11-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2023-12-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2024-01-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2024-02-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2024-03-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2024-04-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2024-05-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2024-06-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2024-07-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2024-08-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2024-09-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2024-10-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2024-11-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67452813', CAST(N'2024-12-01' AS Date), CAST(908.61 AS Decimal(10, 2)), CAST(908.61 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2023-01-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2023-02-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2023-03-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2023-04-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2023-05-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2023-06-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2023-07-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2023-08-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2023-09-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2023-10-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2023-11-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2023-12-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2024-01-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2024-02-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2024-03-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2024-04-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2024-05-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2024-06-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2024-07-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2024-08-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2024-09-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2024-10-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2024-11-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'67707132', CAST(N'2024-12-01' AS Date), CAST(1245.23 AS Decimal(10, 2)), CAST(1245.23 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2023-01-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2023-02-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2023-03-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2023-04-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2023-05-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2023-06-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2023-07-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2023-08-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2023-09-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2023-10-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2023-11-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2023-12-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2024-01-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2024-02-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2024-03-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2024-04-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2024-05-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2024-06-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2024-07-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2024-08-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2024-09-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2024-10-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2024-11-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'72055566', CAST(N'2024-12-01' AS Date), CAST(1168.55 AS Decimal(10, 2)), CAST(1168.55 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2023-01-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2023-02-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2023-03-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2023-04-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2023-05-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2023-06-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2023-07-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2023-08-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2023-09-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2023-10-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2023-11-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2023-12-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2024-01-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2024-02-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2024-03-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2024-04-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2024-05-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2024-06-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2024-07-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2024-08-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2024-09-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2024-10-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2024-11-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'88517172', CAST(N'2024-12-01' AS Date), CAST(961.54 AS Decimal(10, 2)), CAST(961.54 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2023-01-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2023-02-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2023-03-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2023-04-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2023-05-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2023-06-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2023-07-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2023-08-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2023-09-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2023-10-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2023-11-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2023-12-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2024-01-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2024-02-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2024-03-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2024-04-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2024-05-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2024-06-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2024-07-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2024-08-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2024-09-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2024-10-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2024-11-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'93453980', CAST(N'2024-12-01' AS Date), CAST(701.84 AS Decimal(10, 2)), CAST(701.84 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2023-01-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2023-02-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2023-03-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2023-04-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2023-05-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2023-06-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2023-07-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2023-08-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2023-09-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2023-10-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2023-11-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2023-12-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2024-01-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2024-02-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2024-03-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2024-04-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2024-05-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2024-06-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2024-07-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2024-08-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2024-09-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2024-10-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2024-11-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
+INSERT [dbo].[PaymentTransaction] ([payment_id], [payment_date], [amount_due], [amount_paid]) VALUES (N'98775890', CAST(N'2024-12-01' AS Date), CAST(970.74 AS Decimal(10, 2)), CAST(970.74 AS Decimal(10, 2)))
+GO
