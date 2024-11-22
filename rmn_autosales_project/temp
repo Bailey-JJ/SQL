@@ -1,0 +1,26 @@
+select * from PaymentTransaction
+
+select pt.payment_id, cs.sale_id, cs.item_id, sh.sale_date, pt.payment_date
+into #paymenttrans
+from PaymentTransaction pt
+join Payments p on p.payment_id = pt.payment_id
+join CarsSold cs on cs.item_id = p.item_id
+join SalesHeader sh on sh.sale_id = cs.sale_id
+
+
+WITH CTE_RowNumber AS (
+    SELECT 
+        pt.payment_id,
+        cs.sale_id,
+        cs.item_id,
+        sh.sale_date,
+        pt.payment_date,
+        ROW_NUMBER() OVER (PARTITION BY pt.payment_id ORDER BY pt.payment_date) AS row_num
+    FROM PaymentTransaction
+)
+UPDATE CTE_RowNumber
+SET pt.payment_date = DATEADD(MONTH, row_num - 1, EOMONTH(sh.sale_date))
+WHERE pt.payment_date <> DATEADD(MONTH, row_num - 1, EOMONTH(sh.sale_date));
+
+
+select * from #paymenttrans
