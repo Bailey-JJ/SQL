@@ -1,0 +1,32 @@
+create trigger UpdateCustomerTotalDue
+on PaymentTransaction
+after insert
+as
+begin
+    -- Specify the customer ID for which this trigger applies
+    declare @TargetCustomerID char(8);
+    set @TargetCustomerID = 'CUST0001'; -- Replace with the desired Customer ID
+
+    -- Update the SalesHeader total_due for the specific customer
+    update sh
+    set sh.total_due = sh.total_due - i.amount_paid
+    from SalesHeader sh
+    join CarsSold cs on sh.sale_id = cs.sale_id
+    join Payments p on p.sale_id = cs.sale_id and p.item_id = cs.item_id
+    join inserted i on i.payment_id = p.payment_id
+    where sh.customer_id = @TargetCustomerID;
+end;
+
+
+
+create trigger UpdateCustomerTotalDue 
+on PaymentTransaction 
+after insert 
+as 
+begin 
+    update sh set sh.total_due = sh.total_due - i.amount_paid 
+    from SalesHeader sh 
+    join CarsSold cs on sh.sale_id = cs.sale_id 
+    join Payments p on p.sale_id = cs.sale_id and p.item_id = cs.item_id 
+    join inserted i on i.payment_id = p.payment_id 
+end

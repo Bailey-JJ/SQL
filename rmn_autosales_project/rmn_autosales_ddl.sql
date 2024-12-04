@@ -55,8 +55,6 @@ create table [SalesHeader] (
   [customer_id] char (8),
   [sale_date] date,
   [total_due] decimal (10, 2),
-  [down_payment] decimal (10, 2),
-  [financed_amount] decimal (10, 2),
   PRIMARY KEY ([sale_id]),
   FOREIGN KEY ([employee_id]) REFERENCES [SalesPerson]([employee_id]),
   FOREIGN KEY ([customer_id]) REFERENCES [Customer]([customer_id])
@@ -68,7 +66,6 @@ create table [Car] (
   [model] varchar (50),
   [year] char(4),
   [color] varchar (20),
-  [style] varchar (20),
   PRIMARY KEY ([VIN])
 );
 
@@ -86,6 +83,9 @@ create table [CarsSold] (
   [warranty_id] int,
   [miles_at_sale] int,
   [sale_price] decimal (10, 2),
+  [down_payment] decimal (10, 2),
+  [financed_amount] demical (10, 2),
+  [amount_due] decimal (10, 2),
   PRIMARY KEY ([sale_id], [item_id]),
   FOREIGN KEY ([sale_id]) REFERENCES [SalesHeader]([sale_id]),
   FOREIGN KEY ([VIN]) REFERENCES [Car]([VIN]),
@@ -97,9 +97,6 @@ create table [Payments] (
   [sale_id] char(8),
   [item_id] char (8),
   [bank_acc] char (12),
-  [payment_date] date,
-  [amount_due] decimal (10, 2),
-  [amount] decimal (10, 2),
   PRIMARY KEY ([payment_id]),
   FOREIGN KEY ([sale_id], [item_id]) REFERENCES [CarsSold]([sale_id], [item_id])
 );
@@ -121,7 +118,6 @@ create table [PurchaseHeader] (
   [seller_id] int,
   [tax_id] varchar(9),
   [purchase_date] date,
-  [location] varchar(100),
   [auction] bit,
   PRIMARY KEY ([purchase_id]),
   FOREIGN KEY ([seller_id]) REFERENCES [Seller]([seller_id])
@@ -160,7 +156,6 @@ create table [Repairs] (
   [repair_date] date,
   [VIN] char (17),
   [shop_id] int,
-  [repair_description] varchar (100),
   [repair_cost] decimal(10, 2),
   PRIMARY KEY ([repair_date]),
   FOREIGN KEY ([shop_id]) REFERENCES [ShopLookup]([shop_id]),

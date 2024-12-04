@@ -1,9 +1,112 @@
---Finds the difference between when a car is sold and when it was bought by RMN.
+--Finds the average difference between when a car is bought and sold by RMN.
 select AVG(DATEDIFF(day, ph.purchase_date, sh.sale_date)) as DateDifference
-from PurchasedCars pc
-join PurchaseHeader ph on ph. purchase_id = pc. purchase_id
-join CarsSold cs on cs.VIN = pc. VIN
-join SalesHeader sh on sh.sale_id = cs.sale_id
+    from PurchasedCars pc
+    join PurchaseHeader ph on ph. purchase_id = pc. purchase_id
+    join CarsSold cs on cs.VIN = pc. VIN
+    join SalesHeader sh on sh.sale_id = cs.sale_id
 
 
---
+--Find the Vehicle Identification Numbers that have made the most money (Sale_Price-(price_paid+repair.cost)] 
+select cs.VIN, (cs.sale_price - (pc.price_paid + r.repair_cost)) as Balance 
+    from CarsSold cs 
+    join Repairs r on cs.VIN=r.VIN 
+    join PurchasedCars pc on cs.VIN=pc.VIN 
+    order by (cs.sale_price-(pc.price_paid+r.repair_cost)) DESC 
+
+ 
+--Finds which years have the highest repair costs
+select c.year, r.repair_cost, r.repair_date 
+    from car c 
+    join Repairs r on r.VIN=c.VIN 
+    order by r.repair_cost DESC
+
+ 
+--Looks more specifically at the cars a employee has sold, this example looks at employee_id 3.
+select sh.sale_date, cs.VIN, c.make, c.model, c.year, c.color, cs.sale_price, cl.condition 
+    from SalesHeader sh 
+    join CarsSold cs on sh.sale_id = cs.sale_id 
+    join Car c on cs.VIN = c.VIN 
+    join ConditionLookup cl on cs.condition_id = cl.condition_id 
+    where sh.employee_id = 3 
+    order by sh.sale_date DESC 
+
+ 
+--Looks at all employees, reports how much revenue they have provided RMN through car sales, and how many cars they have sold
+select sp.employee_id, 
+       sp.first_name + ' ' + sp.last_name as EmployeeName, 
+       COUNT(cs.item_id) as CarsSold, 
+       SUM(cs.sale_price) as TotalRevenue 
+    from SalesPerson sp 
+    join SalesHeader sh on sp.employee_id = sh.employee_id 
+    join CarsSold cs on cs.sale_id = sh.sale_id 
+    group by sp.employee_id, sp.first_name, sp.last_name 
+    order by TotalRevenue DESC 
+
+ 
+--Looks at all customer, reports how much revenue they have generated RMN and how many cars they have bought from them
+select c.customer_id, 
+       c.first_name + ' ' + c.last_name as CustomerName, 
+       COUNT(cs.item_id) as CarsSold, 
+       SUM(cs.sale_price) as TotalRevenue 
+    from Customer c 
+    join SalesHeader sh on c.customer_id = sh.customer_id 
+    join CarsSold cs on cs.sale_id = sh.sale_id 
+    group by c.customer_id, c.first_name, c.last_name 
+    order by TotalRevenue DESC 
+
+ 
+--Looks at each seller, and the repair costs associated with buying vehicles from them
+select * from Seller s 
+    join PurchaseHeader ph on ph.seller_id = s.seller_id 
+    join PurchasedCars pc on pc.purchase_id = ph.purchase_id 
+    join Repairs r on r.VIN = pc.VIN 
+    order by s.seller_id, r.repair_cost 
+
+ 
+--Report on all cars sold, their revenue, and the grand total revenue
+select convert(varchar, sh.sale_date) as sale_date, 
+       COUNT(cs.VIN) as TotalCarsSold, 
+       SUM(cs.sale_price) as TotalRevenue 
+        from SalesHeader sh 
+        join CarsSold cs on sh.sale_id = cs.sale_id 
+        group by sh.sale_date 
+    union all 
+    select 'Total Cars Sold' as sale_date, 
+        COUNT(cs.VIN) as TotalCarsSold, 
+        NULL as TotalRevenue 
+    from SalesHeader sh 
+    join CarsSold cs on sh.sale_id = cs.sale_id 
+    union all 
+    select 'GrandTotalRevenue' as sale_date, 
+        NULL as TotalCarsSold, 
+        SUM(cs.sale_price) as TotalRevenue 
+    from SalesHeader sh 
+    join CarsSold cs on sh.sale_id = cs.sale_id 
+
+
+--Looks at how long cars have remained unsold, sitting in Inventory
+select pc.VIN, 
+       pc.price_paid, 
+       ph.purchase_date, 
+       DATEDIFF(day, ph.purchase_date, GETDATE()) as DaysInInventory 
+    from PurchasedCars pc 
+    join PurchaseHeader ph on pc.purchase_id = ph.purchase_id 
+    where pc.VIN NOT IN (select VIN from CarsSold) 
+
+
+--Looking at car details in Inventory
+select * from Car order by year
+
+--Removing sellers from the table if they RMN didn't buy cars from them
+delete from Sellers
+where seller_id NOT IN (select seller_id from PurchaseHeader)
+ 
+
+--Testing the UpdateCustomerTotalDue trigger by adding a new payment transaction to a customer's data
+insert into PaymentTransaction values ('37006023', '2025-01-31', '1309.97', '1309.97')
+ 
+
+--Employee changes their phone number and needs to be updated in the database
+update SalesPerson
+set phone = '555-555-5555'
+where employee_id = 3
