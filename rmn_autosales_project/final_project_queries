@@ -1,0 +1,9 @@
+--Finds the difference between when a car is sold and when it was bought by RMN.
+select AVG(DATEDIFF(day, ph.purchase_date, sh.sale_date)) as DateDifference
+from PurchasedCars pc
+join PurchaseHeader ph on ph. purchase_id = pc. purchase_id
+join CarsSold cs on cs.VIN = pc. VIN
+join SalesHeader sh on sh.sale_id = cs.sale_id
+
+
+--

@@ -1,0 +1,61 @@
+--Sales Summary
+create view SalesSummary as
+select convert(varchar, sh.sale_date) as sale_date,
+       COUNT(cs.VIN) as TotalCarsSold,
+       SUM(cs.sale_price) as TotalRevenue
+from SalesHeader sh
+join CarsSold cs on sh.sale_id = cs.sale_id
+group by sh.sale_date
+
+union all
+
+select 'Total Cars Sold' as sale_date,
+       COUNT(cs.VIN) as TotalCarsSold,
+       NULL as TotalRevenue
+from SalesHeader sh
+join CarsSold cs on sh.sale_id = cs.sale_id
+
+union all
+
+select 'GrandTotalRevenue' as sale_date,
+       NULL as TotalCarsSold,
+       SUM(cs.sale_price) as TotalRevenue
+from SalesHeader sh
+join CarsSold cs on sh.sale_id = cs.sale_id
+
+
+--Unsold Inventory
+create view UnsoldInventory as
+select pc.VIN,
+       pc.price_paid,
+       ph.purchase_date,
+       DATEDIFF(day, ph.purchase_date, GETDATE()) as DaysInInventory
+from PurchasedCars pc
+join PurchaseHeader ph ON pc.purchase_id = ph.purchase_id
+where pc.VIN NOT IN (select VIN from CarsSold);
+
+
+--Customer History
+create view CustomersPurchaseHistory as
+select c.customer_id,
+       c.first_name + ' ' + c.last_name as CustomerName,
+       COUNT(sh.sale_id) as TotalCarsPurchased,
+       SUM(cs.sale_price) as TotalSpent
+from Customer c
+join SalesHeader sh on c.customer_id = sh.customer_id
+join CarsSold cs on cs.sale_id = sh.sale_id
+group by c.customer_id, c.first_name, c.last_name
+
+
+--Best Employee
+create view TopSalesPerson as
+select sp.employee_id,
+       sp.first_name + ' ' + sp.last_name as EmployeeName,
+       COUNT(sh.sale_id) as CarsSold,
+       SUM(sh.total_due) as TotalRevenue
+from SalesPerson sp
+join SalesHeader sh on sp.employee_id = sh.employee_id
+group by sp.employee_id, sp.first_name, sp.last_name
+order by TotalRevenue DESC;
+
+

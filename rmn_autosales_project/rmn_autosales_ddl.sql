@@ -83,7 +83,7 @@ create table [CarsSold] (
   [item_id] char (8),
   [condition_id] varchar(10),
   [VIN] char (17),
-  [warrant_id] int,
+  [warranty_id] int,
   [miles_at_sale] int,
   [sale_price] decimal (10, 2),
   PRIMARY KEY ([sale_id], [item_id]),

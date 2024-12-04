@@ -1,0 +1,51 @@
+--Selling a car
+create procedure InsertNewCarSale
+    @VIN char(17),
+    @SaleDate date,
+    @SalePrice decimal(10, 2),
+    @CustomerID char(8),
+    @EmployeeID char(8),
+    @DownPayment decimal(10, 2),
+    @FinancedAmount decimal(10, 2),
+    @ConditionID varchar(10),
+    @MilesAtSale int,
+    @WarrantyID int = NULL
+as
+begin
+    begin transaction;
+
+    begin try
+        -- Insert into SalesHeader
+        declare @SaleID char(8);
+        set @SaleID = FORMAT(GETDATE(), 'yyyyMMddHHmmss')
+
+        insert into SalesHeader (sale_id, employee_id, customer_id, sale_date, total_due, down_payment, financed_amount)
+        values (@SaleID, @EmployeeID, @CustomerID, @SaleDate, @SalePrice, @DownPayment, @FinancedAmount);
+
+        -- Insert into CarsSold
+        declare @ItemID char(8);
+        set @ItemID = FORMAT(GETDATE(), 'HHmmss');
+
+        insert into CarsSold (sale_id, item_id, condition_id, VIN, warranty_id, miles_at_sale, sale_price)
+        values (@SaleID, @ItemID, @ConditionID, @VIN, @WarrantyID, @MilesAtSale, @SalePrice);
+
+        commit transaction;
+    end try
+    begin catch
+        rollback transaction;
+
+        throw;
+    end catch
+end;
+
+exec InsertNewCarSale
+    @VIN = '1N4AA5AP7EC266511',
+    @SaleDate = '2024-12-03',
+    @SalePrice = 43544.77,
+    @CustomerID = '11975772',
+    @EmployeeID = '18',
+    @DownPayment = 5000.00,
+    @FinancedAmount = 38544.77,
+    @ConditionID = 'GOOD',
+    @MilesAtSale = 241600,
+    @WarrantyID = NULL;
