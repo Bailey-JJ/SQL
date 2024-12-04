@@ -49,3 +49,52 @@ exec InsertNewCarSale
     @ConditionID = 'GOOD',
     @MilesAtSale = 241600,
     @WarrantyID = NULL;
+
+
+
+--Calculate Monthly Revenue
+create proc CalculateMonthlyRevenue
+    @Year int,
+    @Month int
+as
+begin
+    select 
+        FORMAT(sale_date, 'MMMM yyyy') as MonthYear,
+        COUNT(DISTINCT sh.sale_id) as TotalSales,
+        SUM(cs.sale_price) as TotalRevenue
+    from SalesHeader sh
+    join CarsSold cs on sh.sale_id = cs.sale_id
+    where YEAR(sh.sale_date) = @Year and MONTH(sh.sale_date) = @Month
+    group by YEAR(sh.sale_date), MONTH(sh.sale_date);
+end;
+
+exec CalculateMonthlyRevenue @Year = 2024, @Month = 08;
+
+
+
+--Seeing a Customer's Purchases
+create proc GetCustomerPurchaseHistory
+    @CustomerID char(8)
+as
+begin
+    select 
+        sh.sale_date,
+        cs.VIN,
+        c.make,
+        c.model,
+        c.year,
+        c.color,
+        cs.sale_price,
+        cl.condition
+    from SalesHeader sh
+    join CarsSold cs on sh.sale_id = cs.sale_id
+    join Car c on cs.VIN = c.VIN
+    join ConditionLookup cl on cs.condition_id = cl.condition_id
+    where sh.customer_id = @CustomerID
+    order by sh.sale_date DESC;
+end;
+
+exec GetCustomerPurchaseHistory @CustomerID = '40404234';
+
+
+--do something similar but with employees and be able to see the details of the cars they have sold.
